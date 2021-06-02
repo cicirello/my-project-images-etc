@@ -1,3 +1,9 @@
+All images, files, etc in this directory and all subdirectories are
+subject to the following copyright:
+
+Copyright (c) 2021 Vincent A. Cicirello.  All rights reserved.
+
+---------------------------------------------------------
 Filenames with "-plain" are saved as plain svg files.
 
 Filenames with "-optimized" are saved as optimized svg files.
