@@ -28,8 +28,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="635.67054"
-     inkscape:cy="323.48432"
+     inkscape:cx="554.8539"
+     inkscape:cy="244.2764"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Vincent A. Cicirello</dc:title>
@@ -139,9 +139,9 @@
          id="tspan910">GitHub Profile README entirely within GitHub Actions</tspan></text>
     <path
        fill="#6e5494"
-       d="m 250.18683,728.01871 a 4.1666666,4.1666666 0 0 1 -2.94169,-1.21668 l -6.20831,-6.19164 a 4.1666666,4.1666666 0 1 1 5.88331,-5.9 l 3.26669,3.25832 9.8417,-9.83332 a 4.1689847,4.1689847 0 0 1 5.9,5.89164 l -12.7917,12.775 a 4.2,4.2 0 0 1 -2.95,1.21668 z m 77.9417,-1.225 12.7833,-12.76668 a 4.1666666,4.1666666 0 0 0 -5.89169,-5.89164 l -9.84161,9.83332 -3.2667,-3.25832 a 4.1666666,4.1666666 0 1 0 -5.8833,5.9 l 6.21661,6.19164 a 4.1416666,4.1416666 0 0 0 5.88339,-0.007 z m -131.75,-51.975 21.3083,-13.20832 a 8.3333332,8.3333332 0 0 0 0.05,-14.14168 l -21.3083,-13.41668 a 8.3333332,8.3333332 0 0 0 -12.775,7.05 v 26.63336 a 8.3416668,8.3416668 0 0 0 12.725,7.08332 z m 16.91661,-20.3 -21.30831,13.21668 v -26.63336 z m 145.35839,62.36668 c 0,16.08332 -13.08339,29.16664 -29.1667,29.16664 a 29.191666,29.191666 0 0 1 -28.8333,-25 h -17.33339 a 29.191666,29.191666 0 0 1 -28.83331,25 29.183334,29.183334 0 0 1 -28.8333,-25 h -4.65 c -8.1,0 -15.4167,-3.325 -20.68339,-8.68332 v 42.01668 c 0,13.78332 11.21669,25 25,25 h 0.33314 c 2.0333,-14.10836 14.16661,-25 28.8333,-25 16.08331,0 29.1667,13.08332 29.1667,29.16664 0,16.08336 -13.08339,29.16668 -29.1667,29.16668 a 29.183334,29.183334 0 0 1 -28.8333,-25 h -0.33314 c -18.38336,0 -33.33336,-14.95 -33.33336,-33.33332 v -59.175 a 41.733334,41.733334 0 0 1 -33.33332,-40.825 c 0,-22.975 18.69162,-41.66668 41.66662,-41.66668 22.975,0 41.6667,18.69168 41.6667,41.66668 a 41.708334,41.708334 0 0 1 -41.2667,41.65 20.683334,20.683334 0 0 0 20.28338,16.68332 h 4.65 c 2.03332,-14.10832 14.16662,-25 28.83332,-25 a 29.183334,29.183334 0 0 1 28.8333,25 h 17.33338 a 29.191666,29.191666 0 0 1 28.83332,-25 c 16.0833,0 29.16668,13.08332 29.16668,29.16668 z m -125,66.66664 c 0,11.48336 9.35,20.83336 20.8333,20.83336 11.48331,0 20.83331,-9.35 20.83331,-20.83336 0,-11.48332 -9.35,-20.83332 -20.83331,-20.83332 -11.4833,0 -20.8333,9.35 -20.8333,20.83332 z m -33.33339,-95.83332 c 18.38339,0 33.33339,-14.95 33.33339,-33.33332 0,-18.38336 -14.95,-33.33336 -33.33339,-33.33336 -18.38331,0 -33.33331,14.95 -33.33331,33.33336 0,18.38332 14.95,33.33332 33.33331,33.33332 z m 75,29.16668 c 0,-11.48336 -9.35,-20.83336 -20.83331,-20.83336 -11.4833,0 -20.8333,9.35 -20.8333,20.83336 0,11.48332 9.35,20.83332 20.8333,20.83332 11.48331,0 20.83331,-9.35 20.83331,-20.83332 z m 75,0 c 0,-11.48336 -9.35,-20.83336 -20.83331,-20.83336 -11.4833,0 -20.8333,9.35 -20.8333,20.83336 0,11.48332 9.35,20.83332 20.8333,20.83332 11.48331,0 20.83331,-9.35 20.83331,-20.83332 z m -108.33331,66.66664 a 4.1666687,4.1666687 0 1 0 8.33331,0 4.1666687,4.1666687 0 0 0 -8.33331,0 z m 16.6667,0 a 4.1666666,4.1666666 0 1 0 8.3333,0 4.1666666,4.1666666 0 0 0 -8.3333,0 z m 100,0 c 0,16.08336 -13.08339,29.16668 -29.1667,29.16668 a 29.191666,29.191666 0 0 1 -28.8333,-25.01668 c -0.0562,0.007 -0.10814,0.0436 -0.175,0.0436 l -4.2167,0.14187 h -0.14187 a 4.1666666,4.1666666 0 0 1 -0.13313,-8.325 l 4.2167,-0.14187 c 0.15,-0.0187 0.29186,0.05 0.43311,0.0562 a 29.191666,29.191666 0 0 1 28.85,-25.09163 c 16.08332,0 29.16664,13.08331 29.16664,29.16663 z m -8.33339,0 c 0,-11.48332 -9.35,-20.83332 -20.83331,-20.83332 -11.4833,0 -20.8333,9.35 -20.8333,20.83332 0,11.48336 9.35,20.83336 20.8333,20.83336 11.48331,0 20.83331,-9.35 20.83331,-20.83336 z"
+       d="m 135.57348,561.89871 a 2.5,2.5 0 0 1 -1.76501,-0.73001 l -3.72499,-3.71498 a 2.5,2.5 0 1 1 3.52999,-3.54 l 1.96001,1.95499 5.90502,-5.89999 a 2.5013908,2.5013908 0 0 1 3.54,3.53498 l -7.67502,7.665 a 2.52,2.52 0 0 1 -1.77,0.73001 z m 46.76502,-0.735 7.66998,-7.66001 a 2.5,2.5 0 0 0 -3.53501,-3.53498 l -5.90497,5.89999 -1.96002,-1.95499 a 2.5,2.5 0 1 0 -3.52998,3.54 l 3.72997,3.71498 a 2.485,2.485 0 0 0 3.53003,-0.004 z m -79.05,-31.185 12.78498,-7.92499 a 4.9999999,4.9999999 0 0 0 0.03,-8.48501 L 103.3185,505.5187 a 4.9999999,4.9999999 0 0 0 -7.664998,4.23 v 15.98002 a 5.0050001,5.0050001 0 0 0 7.634998,4.24999 z m 10.14997,-12.18 -12.78499,7.93001 V 509.7487 Z m 87.21503,37.42001 c 0,9.64999 -7.85003,17.49998 -17.50002,17.49998 a 17.515,17.515 0 0 1 -17.29998,-15 h -10.40003 a 17.515,17.515 0 0 1 -17.29999,15 17.51,17.51 0 0 1 -17.29998,-15 h -2.79 c -4.86,0 -9.25002,-1.995 -12.41003,-5.20999 v 25.21001 c 0,8.26999 6.73001,15 15,15 h 0.19988 c 1.21998,-8.46502 8.49996,-15 17.29998,-15 9.64998,0 17.50002,7.84999 17.50002,17.49998 0,9.65002 -7.85004,17.50001 -17.50002,17.50001 a 17.51,17.51 0 0 1 -17.29998,-15 h -0.19988 c -11.03002,0 -20.00002,-8.97 -20.00002,-19.99999 v -35.505 a 25.04,25.04 0 0 1 -19.99999,-24.495 c 0,-13.785 11.214972,-25.00001 24.99997,-25.00001 13.785,0 25.00002,11.21501 25.00002,25.00001 a 25.025,25.025 0 0 1 -24.76002,24.99 12.41,12.41 0 0 0 12.17003,10.00999 h 2.79 c 1.21999,-8.46499 8.49997,-15 17.29999,-15 a 17.51,17.51 0 0 1 17.29998,15 h 10.40003 a 17.515,17.515 0 0 1 17.29999,-15 c 9.64998,0 17.50001,7.84999 17.50001,17.50001 z m -75,39.99998 c 0,6.89002 5.61,12.50002 12.49998,12.50002 6.88999,0 12.49999,-5.61 12.49999,-12.50002 0,-6.88999 -5.61,-12.49999 -12.49999,-12.49999 -6.88998,0 -12.49998,5.61 -12.49998,12.49999 z m -20.00003,-57.49999 c 11.03003,0 20.00003,-8.97 20.00003,-19.99999 0,-11.03002 -8.97,-20.00002 -20.00003,-20.00002 -11.029988,0 -19.999988,8.97 -19.999988,20.00002 0,11.02999 8.97,19.99999 19.999988,19.99999 z m 45,17.50001 c 0,-6.89002 -5.61,-12.50002 -12.49999,-12.50002 -6.88998,0 -12.49998,5.61 -12.49998,12.50002 0,6.88999 5.61,12.49999 12.49998,12.49999 6.88999,0 12.49999,-5.61 12.49999,-12.49999 z m 45,0 c 0,-6.89002 -5.61,-12.50002 -12.49999,-12.50002 -6.88998,0 -12.49998,5.61 -12.49998,12.50002 0,6.88999 5.61,12.49999 12.49998,12.49999 6.88999,0 12.49999,-5.61 12.49999,-12.49999 z m -64.99999,39.99998 a 2.5000012,2.5000012 0 1 0 4.99999,0 2.5000012,2.5000012 0 0 0 -4.99999,0 z m 10.00002,0 a 2.5,2.5 0 1 0 4.99998,0 2.5,2.5 0 0 0 -4.99998,0 z m 60,0 c 0,9.65002 -7.85003,17.50001 -17.50002,17.50001 A 17.515,17.515 0 0 1 165.8535,597.7087 c -0.0337,0.005 -0.0649,0.0262 -0.105,0.0262 l -2.53002,0.0851 h -0.0851 a 2.5,2.5 0 0 1 -0.0799,-4.995 l 2.53002,-0.0851 c 0.09,-0.0108 0.17511,0.03 0.25987,0.0337 a 17.515,17.515 0 0 1 17.31,-15.05497 c 9.64999,0 17.49998,7.84998 17.49998,17.49997 z m -5.00003,0 c 0,-6.88999 -5.61,-12.49999 -12.49999,-12.49999 -6.88998,0 -12.49998,5.61 -12.49998,12.49999 0,6.89002 5.61,12.50002 12.49998,12.50002 6.88999,0 12.49999,-5.61 12.49999,-12.50002 z"
        id="path911"
-       style="stroke-width:8.33332" />
+       style="stroke-width:4.99999" />
     <image
        width="80"
        height="80"
@@ -149,8 +149,8 @@
        style="image-rendering:optimizeQuality"
        xlink:href="data:image/png;base64,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 "
        id="image2914"
-       x="82"
-       y="496.36224" />
+       x="1122"
+       y="492.36224" />
     <g
        id="g1138"
        transform="matrix(2.5984252,0,0,2.5984252,420.00001,622.36227)">
@@ -692,1462 +692,2227 @@
       </g>
     </g>
     <g
-       id="g2204"
-       transform="matrix(0.53333333,0,0,0.53333333,896.4,573.42893)">
+       id="g1892"
+       transform="matrix(0.39381153,0,0,0.39381153,879.40366,596.01908)">
       <rect
          x="2"
          y="2"
          stroke-width="4"
          rx="6"
-         width="421"
-         height="476"
+         width="436"
+         height="707"
          stroke="#1b4b91"
          fill="#1e2228"
-         id="rect1887" />
+         id="rect1494" />
       <g
          font-weight="600"
          font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
-         id="g2091">
+         id="g1752">
         <text
            x="15"
            y="37"
            font-size="18px"
-           fill="#adbac7"
-           id="text1889">Some User's Statistics</text>
+           fill="#cdd9e5"
+           id="text1496">Some User's GitHub Activity</text>
         <g
            transform="translate(0,60)"
            font-size="14px"
-           fill="#768390"
-           id="g1923">
+           fill="#adbac7"
+           id="g1530">
           <g
              transform="translate(15)"
-             id="g1897">
+             id="g1504">
             <text
                x="0"
                y="12.5"
-               id="text1891">General User Stats:</text>
+               id="text1498">General User Stats:</text>
             <text
                x="220"
                y="12.5"
-               id="text1893">Count</text>
+               id="text1500">Count</text>
             <text
                x="320"
                y="12.5"
-               id="text1895" />
+               id="text1502" />
           </g>
           <g
              transform="translate(15,21)"
-             id="g1909">
+             id="g1516">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1901">
+               id="svg1508">
               <path
                  fill-rule="evenodd"
                  d="m 5.5,3.5 a 2,2 0 1 0 0,4 2,2 0 0 0 0,-4 z M 2,5.5 a 3.5,3.5 0 1 1 5.898,2.549 5.507,5.507 0 0 1 3.034,4.084 0.75025812,0.75025812 0 1 1 -1.482,0.235 4.001,4.001 0 0 0 -7.9,0 A 0.75033659,0.75033659 0 0 1 0.068,12.132 5.507,5.507 0 0 1 3.102,8.05 3.49,3.49 0 0 1 2,5.5 Z M 11,4 a 0.75,0.75 0 1 0 0,1.5 1.5,1.5 0 0 1 0.666,2.844 0.75,0.75 0 0 0 -0.416,0.672 v 0.352 a 0.75,0.75 0 0 0 0.574,0.73 c 1.2,0.289 2.162,1.2 2.522,2.372 A 0.75,0.75 0 1 0 15.78,12.03 5.01,5.01 0 0 0 13.22,9.018 3,3 0 0 0 11,4 Z"
-                 id="path1899" />
+                 id="path1506" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1903">Followers:</text>
+               id="text1510">Followers:</text>
             <text
                x="220"
                y="12.5"
-               id="text1905">10</text>
+               id="text1512">10</text>
             <text
                x="320"
                y="12.5"
-               id="text1907" />
+               id="text1514" />
           </g>
           <g
              transform="translate(15,42)"
-             id="g1921">
+             id="g1528">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1913">
+               id="svg1520">
               <path
                  fill-rule="evenodd"
                  d="m 5.5,3.5 a 2,2 0 1 0 0,4 2,2 0 0 0 0,-4 z M 2,5.5 a 3.5,3.5 0 1 1 5.898,2.549 5.507,5.507 0 0 1 3.034,4.084 0.75025812,0.75025812 0 1 1 -1.482,0.235 4.001,4.001 0 0 0 -7.9,0 A 0.75033659,0.75033659 0 0 1 0.068,12.132 5.507,5.507 0 0 1 3.102,8.05 3.49,3.49 0 0 1 2,5.5 Z M 11,4 a 0.75,0.75 0 1 0 0,1.5 1.5,1.5 0 0 1 0.666,2.844 0.75,0.75 0 0 0 -0.416,0.672 v 0.352 a 0.75,0.75 0 0 0 0.574,0.73 c 1.2,0.289 2.162,1.2 2.522,2.372 A 0.75,0.75 0 1 0 15.78,12.03 5.01,5.01 0 0 0 13.22,9.018 3,3 0 0 0 11,4 Z"
-                 id="path1911" />
+                 id="path1518" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1915">Following:</text>
+               id="text1522">Following:</text>
             <text
                x="220"
                y="12.5"
-               id="text1917">8</text>
+               id="text1524">8</text>
             <text
                x="320"
                y="12.5"
-               id="text1919" />
+               id="text1526" />
           </g>
         </g>
         <g
            transform="translate(0,144)"
            font-size="14px"
-           fill="#768390"
-           id="g2005">
+           fill="#adbac7"
+           id="g1612">
           <g
              transform="translate(15)"
-             id="g1931">
+             id="g1538">
             <text
                x="0"
                y="12.5"
-               id="text1925">Repositories:</text>
+               id="text1532">Repositories:</text>
             <text
                x="220"
                y="12.5"
-               id="text1927">Non-Forks</text>
+               id="text1534">Non-Forks</text>
             <text
                x="320"
                y="12.5"
-               id="text1929">All</text>
+               id="text1536">All</text>
           </g>
           <g
              transform="translate(15,21)"
-             id="g1943">
+             id="g1550">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1935">
+               id="svg1542">
               <path
                  fill-rule="evenodd"
                  d="M 2,2.5 A 2.5,2.5 0 0 1 4.5,0 h 8.75 A 0.75,0.75 0 0 1 14,0.75 v 12.5 A 0.75,0.75 0 0 1 13.25,14 h -2.5 a 0.75,0.75 0 1 1 0,-1.5 h 1.75 v -2 h -8 A 1,1 0 0 0 3.786,12.2 0.75028061,0.75028061 0 0 1 2.714,13.25 2.495,2.495 0 0 1 2,11.5 Z m 10.5,-1 V 9 h -8 C 4.144,9 3.806,9.074 3.5,9.208 V 2.5 a 1,1 0 0 1 1,-1 z M 5,12.25 v 3.25 a 0.25,0.25 0 0 0 0.4,0.2 l 1.45,-1.087 a 0.25,0.25 0 0 1 0.3,0 L 8.6,15.7 A 0.25,0.25 0 0 0 9,15.5 V 12.25 A 0.25,0.25 0 0 0 8.75,12 H 5.25 A 0.25,0.25 0 0 0 5,12.25 Z"
-                 id="path1933" />
+                 id="path1540" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1937">Repositories Owned:</text>
+               id="text1544">Repositories Owned:</text>
             <text
                x="220"
                y="12.5"
-               id="text1939">28</text>
+               id="text1546">29</text>
             <text
                x="320"
                y="12.5"
-               id="text1941">29</text>
+               id="text1548">31</text>
           </g>
           <g
              transform="translate(15,42)"
-             id="g1955">
+             id="g1562">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1947">
+               id="svg1554">
               <path
                  fill-rule="evenodd"
                  d="m 8,0.25 a 0.75,0.75 0 0 1 0.673,0.418 l 1.882,3.815 4.21,0.612 a 0.75,0.75 0 0 1 0.416,1.279 l -3.046,2.97 0.719,4.192 a 0.75,0.75 0 0 1 -1.088,0.791 L 8,12.347 4.234,14.327 A 0.75,0.75 0 0 1 3.146,13.537 L 3.866,9.343 0.818,6.374 A 0.75,0.75 0 0 1 1.234,5.094 L 5.444,4.483 7.327,0.668 A 0.75,0.75 0 0 1 8,0.25 Z M 8,2.695 6.615,5.5 A 0.75,0.75 0 0 1 6.051,5.91 L 2.954,6.36 5.194,8.544 A 0.75,0.75 0 0 1 5.41,9.208 l -0.528,3.084 2.769,-1.456 a 0.75,0.75 0 0 1 0.698,0 l 2.77,1.456 -0.53,-3.084 A 0.75,0.75 0 0 1 10.805,8.544 L 13.045,6.361 9.949,5.911 A 0.75,0.75 0 0 1 9.385,5.501 L 8,2.694 Z"
-                 id="path1945" />
+                 id="path1552" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1949">Starred By:</text>
+               id="text1556">Starred By:</text>
             <text
                x="220"
                y="12.5"
-               id="text1951">36</text>
+               id="text1558">37</text>
             <text
                x="320"
                y="12.5"
-               id="text1953">36</text>
+               id="text1560">37</text>
           </g>
           <g
              transform="translate(15,63)"
-             id="g1967">
+             id="g1574">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1959">
+               id="svg1566">
               <path
                  fill-rule="evenodd"
                  d="m 5,3.25 a 0.75,0.75 0 1 1 -1.5,0 0.75,0.75 0 0 1 1.5,0 z m 0,2.122 a 2.25,2.25 0 1 0 -1.5,0 V 6.25 A 2.25,2.25 0 0 0 5.75,8.5 h 1.5 v 2.128 a 2.251,2.251 0 1 0 1.5,0 V 8.5 h 1.5 A 2.25,2.25 0 0 0 12.5,6.25 V 5.372 a 2.25,2.25 0 1 0 -1.5,0 V 6.25 A 0.75,0.75 0 0 1 10.25,7 H 5.75 A 0.75,0.75 0 0 1 5,6.25 Z m 3.75,7.378 a 0.75,0.75 0 1 1 -1.5,0 0.75,0.75 0 0 1 1.5,0 z m 3,-8.75 a 0.75,0.75 0 1 0 0,-1.5 0.75,0.75 0 0 0 0,1.5 z"
-                 id="path1957" />
+                 id="path1564" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1961">Forked By:</text>
+               id="text1568">Forked By:</text>
             <text
                x="220"
                y="12.5"
-               id="text1963">28</text>
+               id="text1570">28</text>
             <text
                x="320"
                y="12.5"
-               id="text1965">28</text>
+               id="text1572">28</text>
           </g>
           <g
              transform="translate(15,84)"
-             id="g1979">
+             id="g1586">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1971">
+               id="svg1578">
               <path
                  fill-rule="evenodd"
                  d="M 1.679,7.932 C 2.091,7.311 2.921,6.182 4.045,5.215 5.175,4.242 6.527,3.5 8,3.5 c 1.473,0 2.824,0.742 3.955,1.715 1.124,0.967 1.954,2.096 2.366,2.717 a 0.119,0.119 0 0 1 0,0.136 C 13.909,8.689 13.079,9.818 11.955,10.785 10.825,11.758 9.473,12.5 8,12.5 6.527,12.5 5.176,11.758 4.045,10.785 2.92,9.818 2.09,8.69 1.679,8.068 a 0.119,0.119 0 0 1 0,-0.136 z M 8,2 C 6.019,2 4.33,2.992 3.067,4.078 1.797,5.169 0.88,6.423 0.43,7.1 a 1.619,1.619 0 0 0 0,1.798 C 0.88,9.576 1.797,10.83 3.067,11.922 4.329,13.008 6.019,14 8,14 c 1.981,0 3.67,-0.992 4.933,-2.078 1.27,-1.091 2.187,-2.345 2.637,-3.023 a 1.619,1.619 0 0 0 0,-1.798 C 15.12,6.423 14.203,5.169 12.933,4.078 11.671,2.992 9.981,2 8,2 Z m 0,8 a 2,2 0 1 0 0,-4 2,2 0 0 0 0,4 z"
-                 id="path1969" />
+                 id="path1576" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1973">Watched By:</text>
+               id="text1580">Watched By:</text>
             <text
                x="220"
                y="12.5"
-               id="text1975">2</text>
+               id="text1582">2</text>
             <text
                x="320"
                y="12.5"
-               id="text1977">2</text>
+               id="text1584">2</text>
           </g>
           <g
              transform="translate(15,105)"
-             id="g1991">
+             id="g1598">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1983">
+               id="svg1590">
               <path
                  fill-rule="evenodd"
                  d="M 6,0.75 A 0.75,0.75 0 0 1 6.75,0 h 2.5 a 0.75,0.75 0 0 1 0,1.5 H 6.75 A 0.75,0.75 0 0 1 6,0.75 Z m 5,0 A 0.75,0.75 0 0 1 11.75,0 h 1.5 A 0.75,0.75 0 0 1 14,0.75 v 1.5 a 0.75,0.75 0 0 1 -1.5,0 V 1.5 H 11.75 A 0.75,0.75 0 0 1 11,0.75 Z M 4.992,0.662 A 0.75,0.75 0 0 1 4.356,1.51 C 3.92,1.573 3.573,1.92 3.51,2.356 A 0.75002817,0.75002817 0 0 1 2.025,2.144 2.501,2.501 0 0 1 4.144,0.025 0.75,0.75 0 0 1 4.992,0.662 Z M 2.75,4 A 0.75,0.75 0 0 1 3.5,4.75 v 1.5 A 0.75,0.75 0 0 1 2,6.25 V 4.75 A 0.75,0.75 0 0 1 2.75,4 Z m 10.5,0 A 0.75,0.75 0 0 1 14,4.75 v 1.5 a 0.75,0.75 0 0 1 -1.5,0 V 4.75 A 0.75,0.75 0 0 1 13.25,4 Z M 2.75,8 A 0.75,0.75 0 0 1 3.5,8.75 V 9.018 A 1.72,1.72 0 0 1 3.75,9 h 0.5 a 0.75,0.75 0 0 1 0,1.5 H 3.75 A 0.25,0.25 0 0 0 3.5,10.75 v 0.75 c 0,0.28 0.114,0.532 0.3,0.714 A 0.75028061,0.75028061 0 0 1 2.75,13.286 2.495,2.495 0 0 1 2,11.5 V 8.75 A 0.75,0.75 0 0 1 2.75,8 Z m 10.5,0 A 0.75,0.75 0 0 1 14,8.75 v 4.5 A 0.75,0.75 0 0 1 13.25,14 h -2.5 a 0.75,0.75 0 0 1 0,-1.5 h 1.75 v -2 h -0.75 a 0.75,0.75 0 0 1 0,-1.5 H 12.5 V 8.75 A 0.75,0.75 0 0 1 13.25,8 Z M 6,9.75 A 0.75,0.75 0 0 1 6.75,9 h 2.5 a 0.75,0.75 0 0 1 0,1.5 H 6.75 A 0.75,0.75 0 0 1 6,9.75 Z m -1,2.5 v 3.25 a 0.25,0.25 0 0 0 0.4,0.2 l 1.45,-1.087 a 0.25,0.25 0 0 1 0.3,0 L 8.6,15.7 A 0.25,0.25 0 0 0 9,15.5 V 12.25 A 0.25,0.25 0 0 0 8.75,12 H 5.25 A 0.25,0.25 0 0 0 5,12.25 Z"
-                 id="path1981" />
+                 id="path1588" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1985">Templates:</text>
+               id="text1592">Templates:</text>
             <text
                x="220"
                y="12.5"
-               id="text1987">1</text>
+               id="text1594">1</text>
             <text
                x="320"
                y="12.5"
-               id="text1989">1</text>
+               id="text1596">1</text>
           </g>
           <g
              transform="translate(15,126)"
-             id="g2003">
+             id="g1610">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg1995">
+               id="svg1602">
               <path
                  fill-rule="evenodd"
                  d="M 1.75,2.5 A 0.25,0.25 0 0 0 1.5,2.75 v 1.5 c 0,0.138 0.112,0.25 0.25,0.25 h 12.5 A 0.25,0.25 0 0 0 14.5,4.25 V 2.75 A 0.25,0.25 0 0 0 14.25,2.5 Z M 0,2.75 C 0,1.784 0.784,1 1.75,1 h 12.5 C 15.216,1 16,1.784 16,2.75 v 1.5 A 1.75,1.75 0 0 1 14.25,6 H 1.75 A 1.75,1.75 0 0 1 0,4.25 Z M 1.75,7 A 0.75,0.75 0 0 1 2.5,7.75 v 5.5 c 0,0.138 0.112,0.25 0.25,0.25 h 10.5 a 0.25,0.25 0 0 0 0.25,-0.25 v -5.5 a 0.75,0.75 0 1 1 1.5,0 v 5.5 A 1.75,1.75 0 0 1 13.25,15 H 2.75 A 1.75,1.75 0 0 1 1,13.25 V 7.75 A 0.75,0.75 0 0 1 1.75,7 Z m 4.5,1 a 0.75,0.75 0 0 0 0,1.5 h 3.5 a 0.75,0.75 0 1 0 0,-1.5 z"
-                 id="path1993" />
+                 id="path1600" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text1997">Archived:</text>
+               id="text1604">Archived:</text>
             <text
                x="220"
                y="12.5"
-               id="text1999">2</text>
+               id="text1606">2</text>
             <text
                x="320"
                y="12.5"
-               id="text2001">2</text>
+               id="text1608">2</text>
           </g>
         </g>
         <g
            transform="translate(0,312)"
            font-size="14px"
-           fill="#768390"
-           id="g2089">
+           fill="#adbac7"
+           id="g1696">
           <g
              transform="translate(15)"
-             id="g2013">
+             id="g1620">
             <text
                x="0"
                y="12.5"
-               id="text2007">Contributions:</text>
+               id="text1614">Contributions:</text>
             <text
                x="220"
                y="12.5"
-               id="text2009">Past Year</text>
+               id="text1616">Past Year</text>
             <text
                x="320"
                y="12.5"
-               id="text2011">Total</text>
+               id="text1618">Total</text>
           </g>
           <g
              transform="translate(15,21)"
-             id="g2025">
+             id="g1632">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg2017">
+               id="svg1624">
               <path
                  fill-rule="evenodd"
                  d="m 10.5,7.75 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 0 1 5,0 z m 1.43,0.75 a 4.002,4.002 0 0 1 -7.86,0 H 0.75 a 0.75,0.75 0 1 1 0,-1.5 h 3.32 a 4.001,4.001 0 0 1 7.86,0 h 3.32 a 0.75,0.75 0 1 1 0,1.5 z"
-                 id="path2015" />
+                 id="path1622" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2019">Commits:</text>
+               id="text1626">Commits:</text>
             <text
                x="220"
                y="12.5"
-               id="text2021">3828</text>
+               id="text1628">3870</text>
             <text
                x="320"
                y="12.5"
-               id="text2023">4646</text>
+               id="text1630">4729</text>
           </g>
           <g
              transform="translate(15,42)"
-             id="g2039">
+             id="g1646">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg2031">
+               id="svg1638">
               <path
                  d="m 8,9.5 a 1.5,1.5 0 1 0 0,-3 1.5,1.5 0 0 0 0,3 z"
-                 id="path2027" />
+                 id="path1634" />
               <path
                  fill-rule="evenodd"
                  d="M 8,0 A 8,8 0 1 0 8,16 8,8 0 0 0 8,0 Z M 1.5,8 a 6.5,6.5 0 1 1 13,0 6.5,6.5 0 0 1 -13,0 z"
-                 id="path2029" />
+                 id="path1636" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2033">Issues:</text>
+               id="text1640">Issues:</text>
             <text
                x="220"
                y="12.5"
-               id="text2035">79</text>
+               id="text1642">82</text>
             <text
                x="320"
                y="12.5"
-               id="text2037">81</text>
+               id="text1644">84</text>
           </g>
           <g
              transform="translate(15,63)"
-             id="g2051">
+             id="g1658">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg2043">
+               id="svg1650">
               <path
                  fill-rule="evenodd"
                  d="M 7.177,3.073 9.573,0.677 A 0.25,0.25 0 0 1 10,0.854 V 5.646 A 0.25,0.25 0 0 1 9.573,5.823 L 7.177,3.427 a 0.25,0.25 0 0 1 0,-0.354 z M 3.75,2.5 a 0.75,0.75 0 1 0 0,1.5 0.75,0.75 0 0 0 0,-1.5 z M 1.5,3.25 a 2.25,2.25 0 1 1 3,2.122 v 5.256 a 2.251,2.251 0 1 1 -1.5,0 V 5.372 A 2.25,2.25 0 0 1 1.5,3.25 Z M 11,2.5 H 10 V 4 h 1 a 1,1 0 0 1 1,1 v 5.628 a 2.251,2.251 0 1 0 1.5,0 V 5 A 2.5,2.5 0 0 0 11,2.5 Z m 1,10.25 a 0.75,0.75 0 1 1 1.5,0 0.75,0.75 0 0 1 -1.5,0 z M 3.75,12 a 0.75,0.75 0 1 0 0,1.5 0.75,0.75 0 0 0 0,-1.5 z"
-                 id="path2041" />
+                 id="path1648" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2045">Pull Requests:</text>
+               id="text1652">Pull Requests:</text>
             <text
                x="220"
                y="12.5"
-               id="text2047">306</text>
+               id="text1654">314</text>
             <text
                x="320"
                y="12.5"
-               id="text2049">306</text>
+               id="text1656">316</text>
           </g>
           <g
              transform="translate(15,84)"
-             id="g2063">
+             id="g1670">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg2055">
+               id="svg1662">
               <path
                  fill-rule="evenodd"
                  d="M 1.5,2.75 A 0.25,0.25 0 0 1 1.75,2.5 h 8.5 a 0.25,0.25 0 0 1 0.25,0.25 v 5.5 A 0.25,0.25 0 0 1 10.25,8.5 H 6.75 A 0.75,0.75 0 0 0 6.22,8.72 L 3.5,11.44 V 9.25 A 0.75,0.75 0 0 0 2.75,8.5 h -1 A 0.25,0.25 0 0 1 1.5,8.25 Z M 1.75,1 A 1.75,1.75 0 0 0 0,2.75 v 5.5 C 0,9.216 0.784,10 1.75,10 H 2 v 1.543 a 1.457,1.457 0 0 0 2.487,1.03 L 7.061,10 H 10.25 A 1.75,1.75 0 0 0 12,8.25 V 2.75 A 1.75,1.75 0 0 0 10.25,1 Z M 14.5,4.75 A 0.25,0.25 0 0 0 14.25,4.5 h -0.5 a 0.75,0.75 0 1 1 0,-1.5 h 0.5 C 15.216,3 16,3.784 16,4.75 v 5.5 A 1.75,1.75 0 0 1 14.25,12 H 14 v 1.543 a 1.457,1.457 0 0 1 -2.487,1.03 L 9.22,12.28 a 0.75,0.75 0 1 1 1.06,-1.06 l 2.22,2.22 v -2.19 a 0.75,0.75 0 0 1 0.75,-0.75 h 1 a 0.25,0.25 0 0 0 0.25,-0.25 z"
-                 id="path2053" />
+                 id="path1660" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2057">Pull Request Reviews:</text>
+               id="text1664">Pull Request Reviews:</text>
             <text
                x="220"
                y="12.5"
-               id="text2059">318</text>
+               id="text1666">318</text>
             <text
                x="320"
                y="12.5"
-               id="text2061">318</text>
+               id="text1668">318</text>
           </g>
           <g
              transform="translate(15,105)"
-             id="g2075">
+             id="g1682">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg2067">
+               id="svg1674">
               <path
                  fill-rule="evenodd"
                  d="M 1,2.5 A 2.5,2.5 0 0 1 3.5,0 h 8.75 A 0.75,0.75 0 0 1 13,0.75 v 3.5 a 0.75,0.75 0 0 1 -1.5,0 V 1.5 h -8 a 1,1 0 0 0 -1,1 V 9.208 A 2.492,2.492 0 0 1 3.5,9 h 3.25 a 0.75,0.75 0 0 1 0,1.5 H 3.5 a 1,1 0 1 0 0,2 h 5.75 a 0.75,0.75 0 0 1 0,1.5 H 3.5 A 2.5,2.5 0 0 1 1,11.5 Z m 13.23,7.79 A 0.75,0.75 0 0 0 15.29,9.23 L 12.785,6.725 a 0.75,0.75 0 0 0 -1.06,0 L 9.22,9.229 a 0.75,0.75 0 0 0 1.06,1.061 l 1.225,-1.224 v 6.184 a 0.75,0.75 0 0 0 1.5,0 V 9.066 l 1.224,1.224 z"
-                 id="path2065" />
+                 id="path1672" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2069">Contributed To:</text>
+               id="text1676">Contributed To:</text>
             <text
                x="220"
                y="12.5"
-               id="text2071">3</text>
+               id="text1678">5</text>
             <text
                x="320"
                y="12.5"
-               id="text2073">4</text>
+               id="text1680">9</text>
           </g>
           <g
              transform="translate(15,126)"
-             id="g2087">
+             id="g1694">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#6cb6ff"
                version="1.1"
-               id="svg2079">
+               id="svg1686">
               <path
                  fill-rule="evenodd"
                  d="M 4,4 V 6 H 3.75 A 1.75,1.75 0 0 0 2,7.75 v 5.5 C 2,14.216 2.784,15 3.75,15 h 8.5 A 1.75,1.75 0 0 0 14,13.25 V 7.75 A 1.75,1.75 0 0 0 12.25,6 H 12 V 4 A 4,4 0 1 0 4,4 Z m 6.5,2 V 4 a 2.5,2.5 0 0 0 -5,0 V 6 Z M 12,7.5 h 0.25 a 0.25,0.25 0 0 1 0.25,0.25 v 5.5 A 0.25,0.25 0 0 1 12.25,13.5 H 3.75 A 0.25,0.25 0 0 1 3.5,13.25 V 7.75 A 0.25,0.25 0 0 1 3.75,7.5 Z"
-                 id="path2077" />
+                 id="path1684" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2081">Private Contributions:</text>
+               id="text1688">Private Contributions:</text>
             <text
                x="220"
                y="12.5"
-               id="text2083">107</text>
+               id="text1690">107</text>
             <text
                x="320"
                y="12.5"
-               id="text2085">107</text>
+               id="text1692">107</text>
+          </g>
+        </g>
+        <g
+           transform="translate(0,480)"
+           font-size="14px"
+           fill="#adbac7"
+           id="g1750">
+          <g
+             transform="translate(15)"
+             id="g1700">
+            <text
+               x="0"
+               y="12.5"
+               id="text1698">Language Distribution in Public Repositories:</text>
+          </g>
+          <g
+             transform="translate(235,21)"
+             id="g1704">
+            <circle
+               cx="92"
+               cy="92"
+               r="92"
+               fill="#ffffff"
+               id="circle1702" />
+          </g>
+          <g
+             transform="translate(236,22)"
+             id="g1718">
+            <svg
+               viewBox="0 0 182 182"
+               width="182"
+               height="182"
+               version="1.1"
+               id="svg1716">
+              <path
+                 fill-rule="evenodd"
+                 fill="#b07219"
+                 d="m 0,91 a 91,91 0 1 1 145.24472,73.06511 L 91,91 Z"
+                 id="path1706" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#e34c26"
+                 d="M 145.24472,164.06511 A 91,91 0 0 1 15.550071,141.87542 L 91,91 Z"
+                 id="path1708" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#3572a5"
+                 d="M 15.550071,141.87542 A 91,91 0 0 1 3.1282358,114.65487 L 91,91 Z"
+                 id="path1710" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#3d6117"
+                 d="M 3.1282358,114.65487 A 91,91 0 0 1 0.01632286,92.723512 L 91,91 Z"
+                 id="path1712" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#959da5"
+                 d="M 0.01632286,92.723512 A 91,91 0 0 1 0,91 h 91 z"
+                 id="path1714" />
+            </svg>
+          </g>
+          <g
+             transform="translate(15,21)"
+             id="g1724">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#b07219"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect1720" />
+            <text
+               x="25"
+               y="12.5"
+               id="text1722">Java 64.84%</text>
+          </g>
+          <g
+             transform="translate(15,42)"
+             id="g1730">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#e34c26"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect1726" />
+            <text
+               x="25"
+               y="12.5"
+               id="text1728">HTML 25.72%</text>
+          </g>
+          <g
+             transform="translate(15,63)"
+             id="g1736">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#3572a5"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect1732" />
+            <text
+               x="25"
+               y="12.5"
+               id="text1734">Python 5.26%</text>
+          </g>
+          <g
+             transform="translate(15,84)"
+             id="g1742">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#3d6117"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect1738" />
+            <text
+               x="25"
+               y="12.5"
+               id="text1740">TeX 3.88%</text>
+          </g>
+          <g
+             transform="translate(15,105)"
+             id="g1748">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#959da5"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect1744" />
+            <text
+               x="25"
+               y="12.5"
+               id="text1746">Other 0.30%</text>
           </g>
         </g>
       </g>
     </g>
     <g
-       id="g2737"
-       transform="matrix(0.51516044,0.13803682,-0.13803682,0.51516044,965.39058,564.4576)">
+       id="g2560"
+       transform="matrix(0.38039273,0.10192592,-0.10192592,0.38039273,990.59054,565.62316)">
       <rect
          x="2"
          y="2"
          stroke-width="4"
          rx="6"
-         width="421"
-         height="476"
+         width="436"
+         height="707"
          stroke="#c8e1ff"
          fill="#f6f8fa"
-         id="rect2420" />
+         id="rect2162" />
       <g
          font-weight="600"
          font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
-         id="g2624">
+         id="g2420">
         <text
            x="15"
            y="37"
            font-size="18px"
            fill="#24292e"
-           id="text2422">Some User's Statistics</text>
+           id="text2164">Some User's GitHub Activity</text>
         <g
            transform="translate(0,60)"
            font-size="14px"
-           fill="#586069"
-           id="g2456">
+           fill="#24292e"
+           id="g2198">
           <g
              transform="translate(15)"
-             id="g2430">
+             id="g2172">
             <text
                x="0"
                y="12.5"
-               id="text2424">General User Stats:</text>
+               id="text2166">General User Stats:</text>
             <text
                x="220"
                y="12.5"
-               id="text2426">Count</text>
+               id="text2168">Count</text>
             <text
                x="320"
                y="12.5"
-               id="text2428" />
+               id="text2170" />
           </g>
           <g
              transform="translate(15,21)"
-             id="g2442">
+             id="g2184">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2434">
+               id="svg2176">
               <path
                  fill-rule="evenodd"
                  d="m 5.5,3.5 a 2,2 0 1 0 0,4 2,2 0 0 0 0,-4 z M 2,5.5 a 3.5,3.5 0 1 1 5.898,2.549 5.507,5.507 0 0 1 3.034,4.084 0.75025812,0.75025812 0 1 1 -1.482,0.235 4.001,4.001 0 0 0 -7.9,0 A 0.75033659,0.75033659 0 0 1 0.068,12.132 5.507,5.507 0 0 1 3.102,8.05 3.49,3.49 0 0 1 2,5.5 Z M 11,4 a 0.75,0.75 0 1 0 0,1.5 1.5,1.5 0 0 1 0.666,2.844 0.75,0.75 0 0 0 -0.416,0.672 v 0.352 a 0.75,0.75 0 0 0 0.574,0.73 c 1.2,0.289 2.162,1.2 2.522,2.372 A 0.75,0.75 0 1 0 15.78,12.03 5.01,5.01 0 0 0 13.22,9.018 3,3 0 0 0 11,4 Z"
-                 id="path2432" />
+                 id="path2174" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2436">Followers:</text>
+               id="text2178">Followers:</text>
             <text
                x="220"
                y="12.5"
-               id="text2438">10</text>
+               id="text2180">10</text>
             <text
                x="320"
                y="12.5"
-               id="text2440" />
+               id="text2182" />
           </g>
           <g
              transform="translate(15,42)"
-             id="g2454">
+             id="g2196">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2446">
+               id="svg2188">
               <path
                  fill-rule="evenodd"
                  d="m 5.5,3.5 a 2,2 0 1 0 0,4 2,2 0 0 0 0,-4 z M 2,5.5 a 3.5,3.5 0 1 1 5.898,2.549 5.507,5.507 0 0 1 3.034,4.084 0.75025812,0.75025812 0 1 1 -1.482,0.235 4.001,4.001 0 0 0 -7.9,0 A 0.75033659,0.75033659 0 0 1 0.068,12.132 5.507,5.507 0 0 1 3.102,8.05 3.49,3.49 0 0 1 2,5.5 Z M 11,4 a 0.75,0.75 0 1 0 0,1.5 1.5,1.5 0 0 1 0.666,2.844 0.75,0.75 0 0 0 -0.416,0.672 v 0.352 a 0.75,0.75 0 0 0 0.574,0.73 c 1.2,0.289 2.162,1.2 2.522,2.372 A 0.75,0.75 0 1 0 15.78,12.03 5.01,5.01 0 0 0 13.22,9.018 3,3 0 0 0 11,4 Z"
-                 id="path2444" />
+                 id="path2186" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2448">Following:</text>
+               id="text2190">Following:</text>
             <text
                x="220"
                y="12.5"
-               id="text2450">8</text>
+               id="text2192">8</text>
             <text
                x="320"
                y="12.5"
-               id="text2452" />
+               id="text2194" />
           </g>
         </g>
         <g
            transform="translate(0,144)"
            font-size="14px"
-           fill="#586069"
-           id="g2538">
+           fill="#24292e"
+           id="g2280">
           <g
              transform="translate(15)"
-             id="g2464">
+             id="g2206">
             <text
                x="0"
                y="12.5"
-               id="text2458">Repositories:</text>
+               id="text2200">Repositories:</text>
             <text
                x="220"
                y="12.5"
-               id="text2460">Non-Forks</text>
+               id="text2202">Non-Forks</text>
             <text
                x="320"
                y="12.5"
-               id="text2462">All</text>
+               id="text2204">All</text>
           </g>
           <g
              transform="translate(15,21)"
-             id="g2476">
+             id="g2218">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2468">
+               id="svg2210">
               <path
                  fill-rule="evenodd"
                  d="M 2,2.5 A 2.5,2.5 0 0 1 4.5,0 h 8.75 A 0.75,0.75 0 0 1 14,0.75 v 12.5 A 0.75,0.75 0 0 1 13.25,14 h -2.5 a 0.75,0.75 0 1 1 0,-1.5 h 1.75 v -2 h -8 A 1,1 0 0 0 3.786,12.2 0.75028061,0.75028061 0 0 1 2.714,13.25 2.495,2.495 0 0 1 2,11.5 Z m 10.5,-1 V 9 h -8 C 4.144,9 3.806,9.074 3.5,9.208 V 2.5 a 1,1 0 0 1 1,-1 z M 5,12.25 v 3.25 a 0.25,0.25 0 0 0 0.4,0.2 l 1.45,-1.087 a 0.25,0.25 0 0 1 0.3,0 L 8.6,15.7 A 0.25,0.25 0 0 0 9,15.5 V 12.25 A 0.25,0.25 0 0 0 8.75,12 H 5.25 A 0.25,0.25 0 0 0 5,12.25 Z"
-                 id="path2466" />
+                 id="path2208" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2470">Repositories Owned:</text>
+               id="text2212">Repositories Owned:</text>
             <text
                x="220"
                y="12.5"
-               id="text2472">28</text>
+               id="text2214">29</text>
             <text
                x="320"
                y="12.5"
-               id="text2474">29</text>
+               id="text2216">31</text>
           </g>
           <g
              transform="translate(15,42)"
-             id="g2488">
+             id="g2230">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2480">
+               id="svg2222">
               <path
                  fill-rule="evenodd"
                  d="m 8,0.25 a 0.75,0.75 0 0 1 0.673,0.418 l 1.882,3.815 4.21,0.612 a 0.75,0.75 0 0 1 0.416,1.279 l -3.046,2.97 0.719,4.192 a 0.75,0.75 0 0 1 -1.088,0.791 L 8,12.347 4.234,14.327 A 0.75,0.75 0 0 1 3.146,13.537 L 3.866,9.343 0.818,6.374 A 0.75,0.75 0 0 1 1.234,5.094 L 5.444,4.483 7.327,0.668 A 0.75,0.75 0 0 1 8,0.25 Z M 8,2.695 6.615,5.5 A 0.75,0.75 0 0 1 6.051,5.91 L 2.954,6.36 5.194,8.544 A 0.75,0.75 0 0 1 5.41,9.208 l -0.528,3.084 2.769,-1.456 a 0.75,0.75 0 0 1 0.698,0 l 2.77,1.456 -0.53,-3.084 A 0.75,0.75 0 0 1 10.805,8.544 L 13.045,6.361 9.949,5.911 A 0.75,0.75 0 0 1 9.385,5.501 L 8,2.694 Z"
-                 id="path2478" />
+                 id="path2220" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2482">Starred By:</text>
+               id="text2224">Starred By:</text>
             <text
                x="220"
                y="12.5"
-               id="text2484">36</text>
+               id="text2226">37</text>
             <text
                x="320"
                y="12.5"
-               id="text2486">36</text>
+               id="text2228">37</text>
           </g>
           <g
              transform="translate(15,63)"
-             id="g2500">
+             id="g2242">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2492">
+               id="svg2234">
               <path
                  fill-rule="evenodd"
                  d="m 5,3.25 a 0.75,0.75 0 1 1 -1.5,0 0.75,0.75 0 0 1 1.5,0 z m 0,2.122 a 2.25,2.25 0 1 0 -1.5,0 V 6.25 A 2.25,2.25 0 0 0 5.75,8.5 h 1.5 v 2.128 a 2.251,2.251 0 1 0 1.5,0 V 8.5 h 1.5 A 2.25,2.25 0 0 0 12.5,6.25 V 5.372 a 2.25,2.25 0 1 0 -1.5,0 V 6.25 A 0.75,0.75 0 0 1 10.25,7 H 5.75 A 0.75,0.75 0 0 1 5,6.25 Z m 3.75,7.378 a 0.75,0.75 0 1 1 -1.5,0 0.75,0.75 0 0 1 1.5,0 z m 3,-8.75 a 0.75,0.75 0 1 0 0,-1.5 0.75,0.75 0 0 0 0,1.5 z"
-                 id="path2490" />
+                 id="path2232" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2494">Forked By:</text>
+               id="text2236">Forked By:</text>
             <text
                x="220"
                y="12.5"
-               id="text2496">28</text>
+               id="text2238">28</text>
             <text
                x="320"
                y="12.5"
-               id="text2498">28</text>
+               id="text2240">28</text>
           </g>
           <g
              transform="translate(15,84)"
-             id="g2512">
+             id="g2254">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2504">
+               id="svg2246">
               <path
                  fill-rule="evenodd"
                  d="M 1.679,7.932 C 2.091,7.311 2.921,6.182 4.045,5.215 5.175,4.242 6.527,3.5 8,3.5 c 1.473,0 2.824,0.742 3.955,1.715 1.124,0.967 1.954,2.096 2.366,2.717 a 0.119,0.119 0 0 1 0,0.136 C 13.909,8.689 13.079,9.818 11.955,10.785 10.825,11.758 9.473,12.5 8,12.5 6.527,12.5 5.176,11.758 4.045,10.785 2.92,9.818 2.09,8.69 1.679,8.068 a 0.119,0.119 0 0 1 0,-0.136 z M 8,2 C 6.019,2 4.33,2.992 3.067,4.078 1.797,5.169 0.88,6.423 0.43,7.1 a 1.619,1.619 0 0 0 0,1.798 C 0.88,9.576 1.797,10.83 3.067,11.922 4.329,13.008 6.019,14 8,14 c 1.981,0 3.67,-0.992 4.933,-2.078 1.27,-1.091 2.187,-2.345 2.637,-3.023 a 1.619,1.619 0 0 0 0,-1.798 C 15.12,6.423 14.203,5.169 12.933,4.078 11.671,2.992 9.981,2 8,2 Z m 0,8 a 2,2 0 1 0 0,-4 2,2 0 0 0 0,4 z"
-                 id="path2502" />
+                 id="path2244" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2506">Watched By:</text>
+               id="text2248">Watched By:</text>
             <text
                x="220"
                y="12.5"
-               id="text2508">2</text>
+               id="text2250">2</text>
             <text
                x="320"
                y="12.5"
-               id="text2510">2</text>
+               id="text2252">2</text>
           </g>
           <g
              transform="translate(15,105)"
-             id="g2524">
+             id="g2266">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2516">
+               id="svg2258">
               <path
                  fill-rule="evenodd"
                  d="M 6,0.75 A 0.75,0.75 0 0 1 6.75,0 h 2.5 a 0.75,0.75 0 0 1 0,1.5 H 6.75 A 0.75,0.75 0 0 1 6,0.75 Z m 5,0 A 0.75,0.75 0 0 1 11.75,0 h 1.5 A 0.75,0.75 0 0 1 14,0.75 v 1.5 a 0.75,0.75 0 0 1 -1.5,0 V 1.5 H 11.75 A 0.75,0.75 0 0 1 11,0.75 Z M 4.992,0.662 A 0.75,0.75 0 0 1 4.356,1.51 C 3.92,1.573 3.573,1.92 3.51,2.356 A 0.75002817,0.75002817 0 0 1 2.025,2.144 2.501,2.501 0 0 1 4.144,0.025 0.75,0.75 0 0 1 4.992,0.662 Z M 2.75,4 A 0.75,0.75 0 0 1 3.5,4.75 v 1.5 A 0.75,0.75 0 0 1 2,6.25 V 4.75 A 0.75,0.75 0 0 1 2.75,4 Z m 10.5,0 A 0.75,0.75 0 0 1 14,4.75 v 1.5 a 0.75,0.75 0 0 1 -1.5,0 V 4.75 A 0.75,0.75 0 0 1 13.25,4 Z M 2.75,8 A 0.75,0.75 0 0 1 3.5,8.75 V 9.018 A 1.72,1.72 0 0 1 3.75,9 h 0.5 a 0.75,0.75 0 0 1 0,1.5 H 3.75 A 0.25,0.25 0 0 0 3.5,10.75 v 0.75 c 0,0.28 0.114,0.532 0.3,0.714 A 0.75028061,0.75028061 0 0 1 2.75,13.286 2.495,2.495 0 0 1 2,11.5 V 8.75 A 0.75,0.75 0 0 1 2.75,8 Z m 10.5,0 A 0.75,0.75 0 0 1 14,8.75 v 4.5 A 0.75,0.75 0 0 1 13.25,14 h -2.5 a 0.75,0.75 0 0 1 0,-1.5 h 1.75 v -2 h -0.75 a 0.75,0.75 0 0 1 0,-1.5 H 12.5 V 8.75 A 0.75,0.75 0 0 1 13.25,8 Z M 6,9.75 A 0.75,0.75 0 0 1 6.75,9 h 2.5 a 0.75,0.75 0 0 1 0,1.5 H 6.75 A 0.75,0.75 0 0 1 6,9.75 Z m -1,2.5 v 3.25 a 0.25,0.25 0 0 0 0.4,0.2 l 1.45,-1.087 a 0.25,0.25 0 0 1 0.3,0 L 8.6,15.7 A 0.25,0.25 0 0 0 9,15.5 V 12.25 A 0.25,0.25 0 0 0 8.75,12 H 5.25 A 0.25,0.25 0 0 0 5,12.25 Z"
-                 id="path2514" />
+                 id="path2256" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2518">Templates:</text>
+               id="text2260">Templates:</text>
             <text
                x="220"
                y="12.5"
-               id="text2520">1</text>
+               id="text2262">1</text>
             <text
                x="320"
                y="12.5"
-               id="text2522">1</text>
+               id="text2264">1</text>
           </g>
           <g
              transform="translate(15,126)"
-             id="g2536">
+             id="g2278">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2528">
+               id="svg2270">
               <path
                  fill-rule="evenodd"
                  d="M 1.75,2.5 A 0.25,0.25 0 0 0 1.5,2.75 v 1.5 c 0,0.138 0.112,0.25 0.25,0.25 h 12.5 A 0.25,0.25 0 0 0 14.5,4.25 V 2.75 A 0.25,0.25 0 0 0 14.25,2.5 Z M 0,2.75 C 0,1.784 0.784,1 1.75,1 h 12.5 C 15.216,1 16,1.784 16,2.75 v 1.5 A 1.75,1.75 0 0 1 14.25,6 H 1.75 A 1.75,1.75 0 0 1 0,4.25 Z M 1.75,7 A 0.75,0.75 0 0 1 2.5,7.75 v 5.5 c 0,0.138 0.112,0.25 0.25,0.25 h 10.5 a 0.25,0.25 0 0 0 0.25,-0.25 v -5.5 a 0.75,0.75 0 1 1 1.5,0 v 5.5 A 1.75,1.75 0 0 1 13.25,15 H 2.75 A 1.75,1.75 0 0 1 1,13.25 V 7.75 A 0.75,0.75 0 0 1 1.75,7 Z m 4.5,1 a 0.75,0.75 0 0 0 0,1.5 h 3.5 a 0.75,0.75 0 1 0 0,-1.5 z"
-                 id="path2526" />
+                 id="path2268" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2530">Archived:</text>
+               id="text2272">Archived:</text>
             <text
                x="220"
                y="12.5"
-               id="text2532">2</text>
+               id="text2274">2</text>
             <text
                x="320"
                y="12.5"
-               id="text2534">2</text>
+               id="text2276">2</text>
           </g>
         </g>
         <g
            transform="translate(0,312)"
            font-size="14px"
-           fill="#586069"
-           id="g2622">
+           fill="#24292e"
+           id="g2364">
           <g
              transform="translate(15)"
-             id="g2546">
+             id="g2288">
             <text
                x="0"
                y="12.5"
-               id="text2540">Contributions:</text>
+               id="text2282">Contributions:</text>
             <text
                x="220"
                y="12.5"
-               id="text2542">Past Year</text>
+               id="text2284">Past Year</text>
             <text
                x="320"
                y="12.5"
-               id="text2544">Total</text>
+               id="text2286">Total</text>
           </g>
           <g
              transform="translate(15,21)"
-             id="g2558">
+             id="g2300">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2550">
+               id="svg2292">
               <path
                  fill-rule="evenodd"
                  d="m 10.5,7.75 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 0 1 5,0 z m 1.43,0.75 a 4.002,4.002 0 0 1 -7.86,0 H 0.75 a 0.75,0.75 0 1 1 0,-1.5 h 3.32 a 4.001,4.001 0 0 1 7.86,0 h 3.32 a 0.75,0.75 0 1 1 0,1.5 z"
-                 id="path2548" />
+                 id="path2290" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2552">Commits:</text>
+               id="text2294">Commits:</text>
             <text
                x="220"
                y="12.5"
-               id="text2554">3828</text>
+               id="text2296">3871</text>
             <text
                x="320"
                y="12.5"
-               id="text2556">4646</text>
+               id="text2298">4730</text>
           </g>
           <g
              transform="translate(15,42)"
-             id="g2572">
+             id="g2314">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2564">
+               id="svg2306">
               <path
                  d="m 8,9.5 a 1.5,1.5 0 1 0 0,-3 1.5,1.5 0 0 0 0,3 z"
-                 id="path2560" />
+                 id="path2302" />
               <path
                  fill-rule="evenodd"
                  d="M 8,0 A 8,8 0 1 0 8,16 8,8 0 0 0 8,0 Z M 1.5,8 a 6.5,6.5 0 1 1 13,0 6.5,6.5 0 0 1 -13,0 z"
-                 id="path2562" />
+                 id="path2304" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2566">Issues:</text>
+               id="text2308">Issues:</text>
             <text
                x="220"
                y="12.5"
-               id="text2568">79</text>
+               id="text2310">82</text>
             <text
                x="320"
                y="12.5"
-               id="text2570">81</text>
+               id="text2312">84</text>
           </g>
           <g
              transform="translate(15,63)"
-             id="g2584">
+             id="g2326">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2576">
+               id="svg2318">
               <path
                  fill-rule="evenodd"
                  d="M 7.177,3.073 9.573,0.677 A 0.25,0.25 0 0 1 10,0.854 V 5.646 A 0.25,0.25 0 0 1 9.573,5.823 L 7.177,3.427 a 0.25,0.25 0 0 1 0,-0.354 z M 3.75,2.5 a 0.75,0.75 0 1 0 0,1.5 0.75,0.75 0 0 0 0,-1.5 z M 1.5,3.25 a 2.25,2.25 0 1 1 3,2.122 v 5.256 a 2.251,2.251 0 1 1 -1.5,0 V 5.372 A 2.25,2.25 0 0 1 1.5,3.25 Z M 11,2.5 H 10 V 4 h 1 a 1,1 0 0 1 1,1 v 5.628 a 2.251,2.251 0 1 0 1.5,0 V 5 A 2.5,2.5 0 0 0 11,2.5 Z m 1,10.25 a 0.75,0.75 0 1 1 1.5,0 0.75,0.75 0 0 1 -1.5,0 z M 3.75,12 a 0.75,0.75 0 1 0 0,1.5 0.75,0.75 0 0 0 0,-1.5 z"
-                 id="path2574" />
+                 id="path2316" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2578">Pull Requests:</text>
+               id="text2320">Pull Requests:</text>
             <text
                x="220"
                y="12.5"
-               id="text2580">306</text>
+               id="text2322">314</text>
             <text
                x="320"
                y="12.5"
-               id="text2582">306</text>
+               id="text2324">316</text>
           </g>
           <g
              transform="translate(15,84)"
-             id="g2596">
+             id="g2338">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2588">
+               id="svg2330">
               <path
                  fill-rule="evenodd"
                  d="M 1.5,2.75 A 0.25,0.25 0 0 1 1.75,2.5 h 8.5 a 0.25,0.25 0 0 1 0.25,0.25 v 5.5 A 0.25,0.25 0 0 1 10.25,8.5 H 6.75 A 0.75,0.75 0 0 0 6.22,8.72 L 3.5,11.44 V 9.25 A 0.75,0.75 0 0 0 2.75,8.5 h -1 A 0.25,0.25 0 0 1 1.5,8.25 Z M 1.75,1 A 1.75,1.75 0 0 0 0,2.75 v 5.5 C 0,9.216 0.784,10 1.75,10 H 2 v 1.543 a 1.457,1.457 0 0 0 2.487,1.03 L 7.061,10 H 10.25 A 1.75,1.75 0 0 0 12,8.25 V 2.75 A 1.75,1.75 0 0 0 10.25,1 Z M 14.5,4.75 A 0.25,0.25 0 0 0 14.25,4.5 h -0.5 a 0.75,0.75 0 1 1 0,-1.5 h 0.5 C 15.216,3 16,3.784 16,4.75 v 5.5 A 1.75,1.75 0 0 1 14.25,12 H 14 v 1.543 a 1.457,1.457 0 0 1 -2.487,1.03 L 9.22,12.28 a 0.75,0.75 0 1 1 1.06,-1.06 l 2.22,2.22 v -2.19 a 0.75,0.75 0 0 1 0.75,-0.75 h 1 a 0.25,0.25 0 0 0 0.25,-0.25 z"
-                 id="path2586" />
+                 id="path2328" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2590">Pull Request Reviews:</text>
+               id="text2332">Pull Request Reviews:</text>
             <text
                x="220"
                y="12.5"
-               id="text2592">318</text>
+               id="text2334">318</text>
             <text
                x="320"
                y="12.5"
-               id="text2594">318</text>
+               id="text2336">318</text>
           </g>
           <g
              transform="translate(15,105)"
-             id="g2608">
+             id="g2350">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2600">
+               id="svg2342">
               <path
                  fill-rule="evenodd"
                  d="M 1,2.5 A 2.5,2.5 0 0 1 3.5,0 h 8.75 A 0.75,0.75 0 0 1 13,0.75 v 3.5 a 0.75,0.75 0 0 1 -1.5,0 V 1.5 h -8 a 1,1 0 0 0 -1,1 V 9.208 A 2.492,2.492 0 0 1 3.5,9 h 3.25 a 0.75,0.75 0 0 1 0,1.5 H 3.5 a 1,1 0 1 0 0,2 h 5.75 a 0.75,0.75 0 0 1 0,1.5 H 3.5 A 2.5,2.5 0 0 1 1,11.5 Z m 13.23,7.79 A 0.75,0.75 0 0 0 15.29,9.23 L 12.785,6.725 a 0.75,0.75 0 0 0 -1.06,0 L 9.22,9.229 a 0.75,0.75 0 0 0 1.06,1.061 l 1.225,-1.224 v 6.184 a 0.75,0.75 0 0 0 1.5,0 V 9.066 l 1.224,1.224 z"
-                 id="path2598" />
+                 id="path2340" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2602">Contributed To:</text>
+               id="text2344">Contributed To:</text>
             <text
                x="220"
                y="12.5"
-               id="text2604">3</text>
+               id="text2346">5</text>
             <text
                x="320"
                y="12.5"
-               id="text2606">4</text>
+               id="text2348">9</text>
           </g>
           <g
              transform="translate(15,126)"
-             id="g2620">
+             id="g2362">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#0366d6"
                version="1.1"
-               id="svg2612">
+               id="svg2354">
               <path
                  fill-rule="evenodd"
                  d="M 4,4 V 6 H 3.75 A 1.75,1.75 0 0 0 2,7.75 v 5.5 C 2,14.216 2.784,15 3.75,15 h 8.5 A 1.75,1.75 0 0 0 14,13.25 V 7.75 A 1.75,1.75 0 0 0 12.25,6 H 12 V 4 A 4,4 0 1 0 4,4 Z m 6.5,2 V 4 a 2.5,2.5 0 0 0 -5,0 V 6 Z M 12,7.5 h 0.25 a 0.25,0.25 0 0 1 0.25,0.25 v 5.5 A 0.25,0.25 0 0 1 12.25,13.5 H 3.75 A 0.25,0.25 0 0 1 3.5,13.25 V 7.75 A 0.25,0.25 0 0 1 3.75,7.5 Z"
-                 id="path2610" />
+                 id="path2352" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text2614">Private Contributions:</text>
+               id="text2356">Private Contributions:</text>
             <text
                x="220"
                y="12.5"
-               id="text2616">107</text>
+               id="text2358">107</text>
             <text
                x="320"
                y="12.5"
-               id="text2618">107</text>
+               id="text2360">107</text>
+          </g>
+        </g>
+        <g
+           transform="translate(0,480)"
+           font-size="14px"
+           fill="#24292e"
+           id="g2418">
+          <g
+             transform="translate(15)"
+             id="g2368">
+            <text
+               x="0"
+               y="12.5"
+               id="text2366">Language Distribution in Public Repositories:</text>
+          </g>
+          <g
+             transform="translate(235,21)"
+             id="g2372">
+            <circle
+               cx="92"
+               cy="92"
+               r="92"
+               fill="#000000"
+               id="circle2370" />
+          </g>
+          <g
+             transform="translate(236,22)"
+             id="g2386">
+            <svg
+               viewBox="0 0 182 182"
+               width="182"
+               height="182"
+               version="1.1"
+               id="svg2384">
+              <path
+                 fill-rule="evenodd"
+                 fill="#b07219"
+                 d="m 0,91 a 91,91 0 1 1 145.24472,73.06511 L 91,91 Z"
+                 id="path2374" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#e34c26"
+                 d="M 145.24472,164.06511 A 91,91 0 0 1 15.550071,141.87542 L 91,91 Z"
+                 id="path2376" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#3572a5"
+                 d="M 15.550071,141.87542 A 91,91 0 0 1 3.1282358,114.65487 L 91,91 Z"
+                 id="path2378" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#3d6117"
+                 d="M 3.1282358,114.65487 A 91,91 0 0 1 0.01632286,92.723512 L 91,91 Z"
+                 id="path2380" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#959da5"
+                 d="M 0.01632286,92.723512 A 91,91 0 0 1 0,91 h 91 z"
+                 id="path2382" />
+            </svg>
+          </g>
+          <g
+             transform="translate(15,21)"
+             id="g2392">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#b07219"
+               stroke-width="1"
+               stroke="#000000"
+               id="rect2388" />
+            <text
+               x="25"
+               y="12.5"
+               id="text2390">Java 64.84%</text>
+          </g>
+          <g
+             transform="translate(15,42)"
+             id="g2398">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#e34c26"
+               stroke-width="1"
+               stroke="#000000"
+               id="rect2394" />
+            <text
+               x="25"
+               y="12.5"
+               id="text2396">HTML 25.72%</text>
+          </g>
+          <g
+             transform="translate(15,63)"
+             id="g2404">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#3572a5"
+               stroke-width="1"
+               stroke="#000000"
+               id="rect2400" />
+            <text
+               x="25"
+               y="12.5"
+               id="text2402">Python 5.26%</text>
+          </g>
+          <g
+             transform="translate(15,84)"
+             id="g2410">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#3d6117"
+               stroke-width="1"
+               stroke="#000000"
+               id="rect2406" />
+            <text
+               x="25"
+               y="12.5"
+               id="text2408">TeX 3.88%</text>
+          </g>
+          <g
+             transform="translate(15,105)"
+             id="g2416">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#959da5"
+               stroke-width="1"
+               stroke="#000000"
+               id="rect2412" />
+            <text
+               x="25"
+               y="12.5"
+               id="text2414">Other 0.30%</text>
           </g>
         </g>
       </g>
     </g>
     <g
-       id="g3803"
-       transform="matrix(0.46188021,0.26666666,-0.26666666,0.46188021,1041.6838,569.34434)">
+       id="g3228"
+       transform="matrix(0.34105079,0.19690576,-0.19690576,0.34105079,1076.831,562.2692)">
       <rect
          x="2"
          y="2"
          stroke-width="4"
          rx="6"
-         width="421"
-         height="476"
+         width="436"
+         height="707"
          stroke="#0d419d"
          fill="#090c10"
-         id="rect3486" />
+         id="rect2830" />
       <g
          font-weight="600"
          font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
-         id="g3690">
+         id="g3088">
         <text
            x="15"
            y="37"
            font-size="18px"
-           fill="#c9d1d9"
-           id="text3488">Some User's Statistics</text>
+           fill="#f0f6fc"
+           id="text2832">Some User's GitHub Activity</text>
         <g
            transform="translate(0,60)"
            font-size="14px"
-           fill="#8b949e"
-           id="g3522">
+           fill="#c9d1d9"
+           id="g2866">
           <g
              transform="translate(15)"
-             id="g3496">
+             id="g2840">
             <text
                x="0"
                y="12.5"
-               id="text3490">General User Stats:</text>
+               id="text2834">General User Stats:</text>
             <text
                x="220"
                y="12.5"
-               id="text3492">Count</text>
+               id="text2836">Count</text>
             <text
                x="320"
                y="12.5"
-               id="text3494" />
+               id="text2838" />
           </g>
           <g
              transform="translate(15,21)"
-             id="g3508">
+             id="g2852">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3500">
+               id="svg2844">
               <path
                  fill-rule="evenodd"
                  d="m 5.5,3.5 a 2,2 0 1 0 0,4 2,2 0 0 0 0,-4 z M 2,5.5 a 3.5,3.5 0 1 1 5.898,2.549 5.507,5.507 0 0 1 3.034,4.084 0.75025812,0.75025812 0 1 1 -1.482,0.235 4.001,4.001 0 0 0 -7.9,0 A 0.75033659,0.75033659 0 0 1 0.068,12.132 5.507,5.507 0 0 1 3.102,8.05 3.49,3.49 0 0 1 2,5.5 Z M 11,4 a 0.75,0.75 0 1 0 0,1.5 1.5,1.5 0 0 1 0.666,2.844 0.75,0.75 0 0 0 -0.416,0.672 v 0.352 a 0.75,0.75 0 0 0 0.574,0.73 c 1.2,0.289 2.162,1.2 2.522,2.372 A 0.75,0.75 0 1 0 15.78,12.03 5.01,5.01 0 0 0 13.22,9.018 3,3 0 0 0 11,4 Z"
-                 id="path3498" />
+                 id="path2842" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3502">Followers:</text>
+               id="text2846">Followers:</text>
             <text
                x="220"
                y="12.5"
-               id="text3504">10</text>
+               id="text2848">10</text>
             <text
                x="320"
                y="12.5"
-               id="text3506" />
+               id="text2850" />
           </g>
           <g
              transform="translate(15,42)"
-             id="g3520">
+             id="g2864">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3512">
+               id="svg2856">
               <path
                  fill-rule="evenodd"
                  d="m 5.5,3.5 a 2,2 0 1 0 0,4 2,2 0 0 0 0,-4 z M 2,5.5 a 3.5,3.5 0 1 1 5.898,2.549 5.507,5.507 0 0 1 3.034,4.084 0.75025812,0.75025812 0 1 1 -1.482,0.235 4.001,4.001 0 0 0 -7.9,0 A 0.75033659,0.75033659 0 0 1 0.068,12.132 5.507,5.507 0 0 1 3.102,8.05 3.49,3.49 0 0 1 2,5.5 Z M 11,4 a 0.75,0.75 0 1 0 0,1.5 1.5,1.5 0 0 1 0.666,2.844 0.75,0.75 0 0 0 -0.416,0.672 v 0.352 a 0.75,0.75 0 0 0 0.574,0.73 c 1.2,0.289 2.162,1.2 2.522,2.372 A 0.75,0.75 0 1 0 15.78,12.03 5.01,5.01 0 0 0 13.22,9.018 3,3 0 0 0 11,4 Z"
-                 id="path3510" />
+                 id="path2854" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3514">Following:</text>
+               id="text2858">Following:</text>
             <text
                x="220"
                y="12.5"
-               id="text3516">8</text>
+               id="text2860">8</text>
             <text
                x="320"
                y="12.5"
-               id="text3518" />
+               id="text2862" />
           </g>
         </g>
         <g
            transform="translate(0,144)"
            font-size="14px"
-           fill="#8b949e"
-           id="g3604">
+           fill="#c9d1d9"
+           id="g2948">
           <g
              transform="translate(15)"
-             id="g3530">
+             id="g2874">
             <text
                x="0"
                y="12.5"
-               id="text3524">Repositories:</text>
+               id="text2868">Repositories:</text>
             <text
                x="220"
                y="12.5"
-               id="text3526">Non-Forks</text>
+               id="text2870">Non-Forks</text>
             <text
                x="320"
                y="12.5"
-               id="text3528">All</text>
+               id="text2872">All</text>
           </g>
           <g
              transform="translate(15,21)"
-             id="g3542">
+             id="g2886">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3534">
+               id="svg2878">
               <path
                  fill-rule="evenodd"
                  d="M 2,2.5 A 2.5,2.5 0 0 1 4.5,0 h 8.75 A 0.75,0.75 0 0 1 14,0.75 v 12.5 A 0.75,0.75 0 0 1 13.25,14 h -2.5 a 0.75,0.75 0 1 1 0,-1.5 h 1.75 v -2 h -8 A 1,1 0 0 0 3.786,12.2 0.75028061,0.75028061 0 0 1 2.714,13.25 2.495,2.495 0 0 1 2,11.5 Z m 10.5,-1 V 9 h -8 C 4.144,9 3.806,9.074 3.5,9.208 V 2.5 a 1,1 0 0 1 1,-1 z M 5,12.25 v 3.25 a 0.25,0.25 0 0 0 0.4,0.2 l 1.45,-1.087 a 0.25,0.25 0 0 1 0.3,0 L 8.6,15.7 A 0.25,0.25 0 0 0 9,15.5 V 12.25 A 0.25,0.25 0 0 0 8.75,12 H 5.25 A 0.25,0.25 0 0 0 5,12.25 Z"
-                 id="path3532" />
+                 id="path2876" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3536">Repositories Owned:</text>
+               id="text2880">Repositories Owned:</text>
             <text
                x="220"
                y="12.5"
-               id="text3538">28</text>
+               id="text2882">29</text>
             <text
                x="320"
                y="12.5"
-               id="text3540">29</text>
+               id="text2884">31</text>
           </g>
           <g
              transform="translate(15,42)"
-             id="g3554">
+             id="g2898">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3546">
+               id="svg2890">
               <path
                  fill-rule="evenodd"
                  d="m 8,0.25 a 0.75,0.75 0 0 1 0.673,0.418 l 1.882,3.815 4.21,0.612 a 0.75,0.75 0 0 1 0.416,1.279 l -3.046,2.97 0.719,4.192 a 0.75,0.75 0 0 1 -1.088,0.791 L 8,12.347 4.234,14.327 A 0.75,0.75 0 0 1 3.146,13.537 L 3.866,9.343 0.818,6.374 A 0.75,0.75 0 0 1 1.234,5.094 L 5.444,4.483 7.327,0.668 A 0.75,0.75 0 0 1 8,0.25 Z M 8,2.695 6.615,5.5 A 0.75,0.75 0 0 1 6.051,5.91 L 2.954,6.36 5.194,8.544 A 0.75,0.75 0 0 1 5.41,9.208 l -0.528,3.084 2.769,-1.456 a 0.75,0.75 0 0 1 0.698,0 l 2.77,1.456 -0.53,-3.084 A 0.75,0.75 0 0 1 10.805,8.544 L 13.045,6.361 9.949,5.911 A 0.75,0.75 0 0 1 9.385,5.501 L 8,2.694 Z"
-                 id="path3544" />
+                 id="path2888" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3548">Starred By:</text>
+               id="text2892">Starred By:</text>
             <text
                x="220"
                y="12.5"
-               id="text3550">36</text>
+               id="text2894">37</text>
             <text
                x="320"
                y="12.5"
-               id="text3552">36</text>
+               id="text2896">37</text>
           </g>
           <g
              transform="translate(15,63)"
-             id="g3566">
+             id="g2910">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3558">
+               id="svg2902">
               <path
                  fill-rule="evenodd"
                  d="m 5,3.25 a 0.75,0.75 0 1 1 -1.5,0 0.75,0.75 0 0 1 1.5,0 z m 0,2.122 a 2.25,2.25 0 1 0 -1.5,0 V 6.25 A 2.25,2.25 0 0 0 5.75,8.5 h 1.5 v 2.128 a 2.251,2.251 0 1 0 1.5,0 V 8.5 h 1.5 A 2.25,2.25 0 0 0 12.5,6.25 V 5.372 a 2.25,2.25 0 1 0 -1.5,0 V 6.25 A 0.75,0.75 0 0 1 10.25,7 H 5.75 A 0.75,0.75 0 0 1 5,6.25 Z m 3.75,7.378 a 0.75,0.75 0 1 1 -1.5,0 0.75,0.75 0 0 1 1.5,0 z m 3,-8.75 a 0.75,0.75 0 1 0 0,-1.5 0.75,0.75 0 0 0 0,1.5 z"
-                 id="path3556" />
+                 id="path2900" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3560">Forked By:</text>
+               id="text2904">Forked By:</text>
             <text
                x="220"
                y="12.5"
-               id="text3562">28</text>
+               id="text2906">28</text>
             <text
                x="320"
                y="12.5"
-               id="text3564">28</text>
+               id="text2908">28</text>
           </g>
           <g
              transform="translate(15,84)"
-             id="g3578">
+             id="g2922">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3570">
+               id="svg2914">
               <path
                  fill-rule="evenodd"
                  d="M 1.679,7.932 C 2.091,7.311 2.921,6.182 4.045,5.215 5.175,4.242 6.527,3.5 8,3.5 c 1.473,0 2.824,0.742 3.955,1.715 1.124,0.967 1.954,2.096 2.366,2.717 a 0.119,0.119 0 0 1 0,0.136 C 13.909,8.689 13.079,9.818 11.955,10.785 10.825,11.758 9.473,12.5 8,12.5 6.527,12.5 5.176,11.758 4.045,10.785 2.92,9.818 2.09,8.69 1.679,8.068 a 0.119,0.119 0 0 1 0,-0.136 z M 8,2 C 6.019,2 4.33,2.992 3.067,4.078 1.797,5.169 0.88,6.423 0.43,7.1 a 1.619,1.619 0 0 0 0,1.798 C 0.88,9.576 1.797,10.83 3.067,11.922 4.329,13.008 6.019,14 8,14 c 1.981,0 3.67,-0.992 4.933,-2.078 1.27,-1.091 2.187,-2.345 2.637,-3.023 a 1.619,1.619 0 0 0 0,-1.798 C 15.12,6.423 14.203,5.169 12.933,4.078 11.671,2.992 9.981,2 8,2 Z m 0,8 a 2,2 0 1 0 0,-4 2,2 0 0 0 0,4 z"
-                 id="path3568" />
+                 id="path2912" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3572">Watched By:</text>
+               id="text2916">Watched By:</text>
             <text
                x="220"
                y="12.5"
-               id="text3574">2</text>
+               id="text2918">2</text>
             <text
                x="320"
                y="12.5"
-               id="text3576">2</text>
+               id="text2920">2</text>
           </g>
           <g
              transform="translate(15,105)"
-             id="g3590">
+             id="g2934">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3582">
+               id="svg2926">
               <path
                  fill-rule="evenodd"
                  d="M 6,0.75 A 0.75,0.75 0 0 1 6.75,0 h 2.5 a 0.75,0.75 0 0 1 0,1.5 H 6.75 A 0.75,0.75 0 0 1 6,0.75 Z m 5,0 A 0.75,0.75 0 0 1 11.75,0 h 1.5 A 0.75,0.75 0 0 1 14,0.75 v 1.5 a 0.75,0.75 0 0 1 -1.5,0 V 1.5 H 11.75 A 0.75,0.75 0 0 1 11,0.75 Z M 4.992,0.662 A 0.75,0.75 0 0 1 4.356,1.51 C 3.92,1.573 3.573,1.92 3.51,2.356 A 0.75002817,0.75002817 0 0 1 2.025,2.144 2.501,2.501 0 0 1 4.144,0.025 0.75,0.75 0 0 1 4.992,0.662 Z M 2.75,4 A 0.75,0.75 0 0 1 3.5,4.75 v 1.5 A 0.75,0.75 0 0 1 2,6.25 V 4.75 A 0.75,0.75 0 0 1 2.75,4 Z m 10.5,0 A 0.75,0.75 0 0 1 14,4.75 v 1.5 a 0.75,0.75 0 0 1 -1.5,0 V 4.75 A 0.75,0.75 0 0 1 13.25,4 Z M 2.75,8 A 0.75,0.75 0 0 1 3.5,8.75 V 9.018 A 1.72,1.72 0 0 1 3.75,9 h 0.5 a 0.75,0.75 0 0 1 0,1.5 H 3.75 A 0.25,0.25 0 0 0 3.5,10.75 v 0.75 c 0,0.28 0.114,0.532 0.3,0.714 A 0.75028061,0.75028061 0 0 1 2.75,13.286 2.495,2.495 0 0 1 2,11.5 V 8.75 A 0.75,0.75 0 0 1 2.75,8 Z m 10.5,0 A 0.75,0.75 0 0 1 14,8.75 v 4.5 A 0.75,0.75 0 0 1 13.25,14 h -2.5 a 0.75,0.75 0 0 1 0,-1.5 h 1.75 v -2 h -0.75 a 0.75,0.75 0 0 1 0,-1.5 H 12.5 V 8.75 A 0.75,0.75 0 0 1 13.25,8 Z M 6,9.75 A 0.75,0.75 0 0 1 6.75,9 h 2.5 a 0.75,0.75 0 0 1 0,1.5 H 6.75 A 0.75,0.75 0 0 1 6,9.75 Z m -1,2.5 v 3.25 a 0.25,0.25 0 0 0 0.4,0.2 l 1.45,-1.087 a 0.25,0.25 0 0 1 0.3,0 L 8.6,15.7 A 0.25,0.25 0 0 0 9,15.5 V 12.25 A 0.25,0.25 0 0 0 8.75,12 H 5.25 A 0.25,0.25 0 0 0 5,12.25 Z"
-                 id="path3580" />
+                 id="path2924" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3584">Templates:</text>
+               id="text2928">Templates:</text>
             <text
                x="220"
                y="12.5"
-               id="text3586">1</text>
+               id="text2930">1</text>
             <text
                x="320"
                y="12.5"
-               id="text3588">1</text>
+               id="text2932">1</text>
           </g>
           <g
              transform="translate(15,126)"
-             id="g3602">
+             id="g2946">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3594">
+               id="svg2938">
               <path
                  fill-rule="evenodd"
                  d="M 1.75,2.5 A 0.25,0.25 0 0 0 1.5,2.75 v 1.5 c 0,0.138 0.112,0.25 0.25,0.25 h 12.5 A 0.25,0.25 0 0 0 14.5,4.25 V 2.75 A 0.25,0.25 0 0 0 14.25,2.5 Z M 0,2.75 C 0,1.784 0.784,1 1.75,1 h 12.5 C 15.216,1 16,1.784 16,2.75 v 1.5 A 1.75,1.75 0 0 1 14.25,6 H 1.75 A 1.75,1.75 0 0 1 0,4.25 Z M 1.75,7 A 0.75,0.75 0 0 1 2.5,7.75 v 5.5 c 0,0.138 0.112,0.25 0.25,0.25 h 10.5 a 0.25,0.25 0 0 0 0.25,-0.25 v -5.5 a 0.75,0.75 0 1 1 1.5,0 v 5.5 A 1.75,1.75 0 0 1 13.25,15 H 2.75 A 1.75,1.75 0 0 1 1,13.25 V 7.75 A 0.75,0.75 0 0 1 1.75,7 Z m 4.5,1 a 0.75,0.75 0 0 0 0,1.5 h 3.5 a 0.75,0.75 0 1 0 0,-1.5 z"
-                 id="path3592" />
+                 id="path2936" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3596">Archived:</text>
+               id="text2940">Archived:</text>
             <text
                x="220"
                y="12.5"
-               id="text3598">2</text>
+               id="text2942">2</text>
             <text
                x="320"
                y="12.5"
-               id="text3600">2</text>
+               id="text2944">2</text>
           </g>
         </g>
         <g
            transform="translate(0,312)"
            font-size="14px"
-           fill="#8b949e"
-           id="g3688">
+           fill="#c9d1d9"
+           id="g3032">
           <g
              transform="translate(15)"
-             id="g3612">
+             id="g2956">
             <text
                x="0"
                y="12.5"
-               id="text3606">Contributions:</text>
+               id="text2950">Contributions:</text>
             <text
                x="220"
                y="12.5"
-               id="text3608">Past Year</text>
+               id="text2952">Past Year</text>
             <text
                x="320"
                y="12.5"
-               id="text3610">Total</text>
+               id="text2954">Total</text>
           </g>
           <g
              transform="translate(15,21)"
-             id="g3624">
+             id="g2968">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3616">
+               id="svg2960">
               <path
                  fill-rule="evenodd"
                  d="m 10.5,7.75 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 0 1 5,0 z m 1.43,0.75 a 4.002,4.002 0 0 1 -7.86,0 H 0.75 a 0.75,0.75 0 1 1 0,-1.5 h 3.32 a 4.001,4.001 0 0 1 7.86,0 h 3.32 a 0.75,0.75 0 1 1 0,1.5 z"
-                 id="path3614" />
+                 id="path2958" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3618">Commits:</text>
+               id="text2962">Commits:</text>
             <text
                x="220"
                y="12.5"
-               id="text3620">3828</text>
+               id="text2964">3869</text>
             <text
                x="320"
                y="12.5"
-               id="text3622">4646</text>
+               id="text2966">4728</text>
           </g>
           <g
              transform="translate(15,42)"
-             id="g3638">
+             id="g2982">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3630">
+               id="svg2974">
               <path
                  d="m 8,9.5 a 1.5,1.5 0 1 0 0,-3 1.5,1.5 0 0 0 0,3 z"
-                 id="path3626" />
+                 id="path2970" />
               <path
                  fill-rule="evenodd"
                  d="M 8,0 A 8,8 0 1 0 8,16 8,8 0 0 0 8,0 Z M 1.5,8 a 6.5,6.5 0 1 1 13,0 6.5,6.5 0 0 1 -13,0 z"
-                 id="path3628" />
+                 id="path2972" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3632">Issues:</text>
+               id="text2976">Issues:</text>
             <text
                x="220"
                y="12.5"
-               id="text3634">79</text>
+               id="text2978">82</text>
             <text
                x="320"
                y="12.5"
-               id="text3636">81</text>
+               id="text2980">84</text>
           </g>
           <g
              transform="translate(15,63)"
-             id="g3650">
+             id="g2994">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3642">
+               id="svg2986">
               <path
                  fill-rule="evenodd"
                  d="M 7.177,3.073 9.573,0.677 A 0.25,0.25 0 0 1 10,0.854 V 5.646 A 0.25,0.25 0 0 1 9.573,5.823 L 7.177,3.427 a 0.25,0.25 0 0 1 0,-0.354 z M 3.75,2.5 a 0.75,0.75 0 1 0 0,1.5 0.75,0.75 0 0 0 0,-1.5 z M 1.5,3.25 a 2.25,2.25 0 1 1 3,2.122 v 5.256 a 2.251,2.251 0 1 1 -1.5,0 V 5.372 A 2.25,2.25 0 0 1 1.5,3.25 Z M 11,2.5 H 10 V 4 h 1 a 1,1 0 0 1 1,1 v 5.628 a 2.251,2.251 0 1 0 1.5,0 V 5 A 2.5,2.5 0 0 0 11,2.5 Z m 1,10.25 a 0.75,0.75 0 1 1 1.5,0 0.75,0.75 0 0 1 -1.5,0 z M 3.75,12 a 0.75,0.75 0 1 0 0,1.5 0.75,0.75 0 0 0 0,-1.5 z"
-                 id="path3640" />
+                 id="path2984" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3644">Pull Requests:</text>
+               id="text2988">Pull Requests:</text>
             <text
                x="220"
                y="12.5"
-               id="text3646">306</text>
+               id="text2990">314</text>
             <text
                x="320"
                y="12.5"
-               id="text3648">306</text>
+               id="text2992">316</text>
           </g>
           <g
              transform="translate(15,84)"
-             id="g3662">
+             id="g3006">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3654">
+               id="svg2998">
               <path
                  fill-rule="evenodd"
                  d="M 1.5,2.75 A 0.25,0.25 0 0 1 1.75,2.5 h 8.5 a 0.25,0.25 0 0 1 0.25,0.25 v 5.5 A 0.25,0.25 0 0 1 10.25,8.5 H 6.75 A 0.75,0.75 0 0 0 6.22,8.72 L 3.5,11.44 V 9.25 A 0.75,0.75 0 0 0 2.75,8.5 h -1 A 0.25,0.25 0 0 1 1.5,8.25 Z M 1.75,1 A 1.75,1.75 0 0 0 0,2.75 v 5.5 C 0,9.216 0.784,10 1.75,10 H 2 v 1.543 a 1.457,1.457 0 0 0 2.487,1.03 L 7.061,10 H 10.25 A 1.75,1.75 0 0 0 12,8.25 V 2.75 A 1.75,1.75 0 0 0 10.25,1 Z M 14.5,4.75 A 0.25,0.25 0 0 0 14.25,4.5 h -0.5 a 0.75,0.75 0 1 1 0,-1.5 h 0.5 C 15.216,3 16,3.784 16,4.75 v 5.5 A 1.75,1.75 0 0 1 14.25,12 H 14 v 1.543 a 1.457,1.457 0 0 1 -2.487,1.03 L 9.22,12.28 a 0.75,0.75 0 1 1 1.06,-1.06 l 2.22,2.22 v -2.19 a 0.75,0.75 0 0 1 0.75,-0.75 h 1 a 0.25,0.25 0 0 0 0.25,-0.25 z"
-                 id="path3652" />
+                 id="path2996" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3656">Pull Request Reviews:</text>
+               id="text3000">Pull Request Reviews:</text>
             <text
                x="220"
                y="12.5"
-               id="text3658">318</text>
+               id="text3002">318</text>
             <text
                x="320"
                y="12.5"
-               id="text3660">318</text>
+               id="text3004">318</text>
           </g>
           <g
              transform="translate(15,105)"
-             id="g3674">
+             id="g3018">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3666">
+               id="svg3010">
               <path
                  fill-rule="evenodd"
                  d="M 1,2.5 A 2.5,2.5 0 0 1 3.5,0 h 8.75 A 0.75,0.75 0 0 1 13,0.75 v 3.5 a 0.75,0.75 0 0 1 -1.5,0 V 1.5 h -8 a 1,1 0 0 0 -1,1 V 9.208 A 2.492,2.492 0 0 1 3.5,9 h 3.25 a 0.75,0.75 0 0 1 0,1.5 H 3.5 a 1,1 0 1 0 0,2 h 5.75 a 0.75,0.75 0 0 1 0,1.5 H 3.5 A 2.5,2.5 0 0 1 1,11.5 Z m 13.23,7.79 A 0.75,0.75 0 0 0 15.29,9.23 L 12.785,6.725 a 0.75,0.75 0 0 0 -1.06,0 L 9.22,9.229 a 0.75,0.75 0 0 0 1.06,1.061 l 1.225,-1.224 v 6.184 a 0.75,0.75 0 0 0 1.5,0 V 9.066 l 1.224,1.224 z"
-                 id="path3664" />
+                 id="path3008" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3668">Contributed To:</text>
+               id="text3012">Contributed To:</text>
             <text
                x="220"
                y="12.5"
-               id="text3670">3</text>
+               id="text3014">5</text>
             <text
                x="320"
                y="12.5"
-               id="text3672">4</text>
+               id="text3016">9</text>
           </g>
           <g
              transform="translate(15,126)"
-             id="g3686">
+             id="g3030">
             <svg
                viewBox="0 0 16 16"
                width="16"
                height="16"
                fill="#79c0ff"
                version="1.1"
-               id="svg3678">
+               id="svg3022">
               <path
                  fill-rule="evenodd"
                  d="M 4,4 V 6 H 3.75 A 1.75,1.75 0 0 0 2,7.75 v 5.5 C 2,14.216 2.784,15 3.75,15 h 8.5 A 1.75,1.75 0 0 0 14,13.25 V 7.75 A 1.75,1.75 0 0 0 12.25,6 H 12 V 4 A 4,4 0 1 0 4,4 Z m 6.5,2 V 4 a 2.5,2.5 0 0 0 -5,0 V 6 Z M 12,7.5 h 0.25 a 0.25,0.25 0 0 1 0.25,0.25 v 5.5 A 0.25,0.25 0 0 1 12.25,13.5 H 3.75 A 0.25,0.25 0 0 1 3.5,13.25 V 7.75 A 0.25,0.25 0 0 1 3.75,7.5 Z"
-                 id="path3676" />
+                 id="path3020" />
             </svg>
             <text
                x="25"
                y="12.5"
-               id="text3680">Private Contributions:</text>
+               id="text3024">Private Contributions:</text>
             <text
                x="220"
                y="12.5"
-               id="text3682">107</text>
+               id="text3026">107</text>
             <text
                x="320"
                y="12.5"
-               id="text3684">107</text>
+               id="text3028">107</text>
+          </g>
+        </g>
+        <g
+           transform="translate(0,480)"
+           font-size="14px"
+           fill="#c9d1d9"
+           id="g3086">
+          <g
+             transform="translate(15)"
+             id="g3036">
+            <text
+               x="0"
+               y="12.5"
+               id="text3034">Language Distribution in Public Repositories:</text>
+          </g>
+          <g
+             transform="translate(235,21)"
+             id="g3040">
+            <circle
+               cx="92"
+               cy="92"
+               r="92"
+               fill="#ffffff"
+               id="circle3038" />
+          </g>
+          <g
+             transform="translate(236,22)"
+             id="g3054">
+            <svg
+               viewBox="0 0 182 182"
+               width="182"
+               height="182"
+               version="1.1"
+               id="svg3052">
+              <path
+                 fill-rule="evenodd"
+                 fill="#b07219"
+                 d="m 0,91 a 91,91 0 1 1 145.24472,73.06511 L 91,91 Z"
+                 id="path3042" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#e34c26"
+                 d="M 145.24472,164.06511 A 91,91 0 0 1 15.550071,141.87542 L 91,91 Z"
+                 id="path3044" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#3572a5"
+                 d="M 15.550071,141.87542 A 91,91 0 0 1 3.1282358,114.65487 L 91,91 Z"
+                 id="path3046" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#3d6117"
+                 d="M 3.1282358,114.65487 A 91,91 0 0 1 0.01632286,92.723512 L 91,91 Z"
+                 id="path3048" />
+              <path
+                 fill-rule="evenodd"
+                 fill="#959da5"
+                 d="M 0.01632286,92.723512 A 91,91 0 0 1 0,91 h 91 z"
+                 id="path3050" />
+            </svg>
+          </g>
+          <g
+             transform="translate(15,21)"
+             id="g3060">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#b07219"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect3056" />
+            <text
+               x="25"
+               y="12.5"
+               id="text3058">Java 64.84%</text>
+          </g>
+          <g
+             transform="translate(15,42)"
+             id="g3066">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#e34c26"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect3062" />
+            <text
+               x="25"
+               y="12.5"
+               id="text3064">HTML 25.72%</text>
+          </g>
+          <g
+             transform="translate(15,63)"
+             id="g3072">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#3572a5"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect3068" />
+            <text
+               x="25"
+               y="12.5"
+               id="text3070">Python 5.26%</text>
+          </g>
+          <g
+             transform="translate(15,84)"
+             id="g3078">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#3d6117"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect3074" />
+            <text
+               x="25"
+               y="12.5"
+               id="text3076">TeX 3.88%</text>
+          </g>
+          <g
+             transform="translate(15,105)"
+             id="g3084">
+            <rect
+               x="0.5"
+               y="0.5"
+               rx="2"
+               width="15"
+               height="15"
+               fill="#959da5"
+               stroke-width="1"
+               stroke="#ffffff"
+               id="rect3080" />
+            <text
+               x="25"
+               y="12.5"
+               id="text3082">Other 0.30%</text>
           </g>
         </g>
       </g>
     </g>
+    <g
+       id="g3496"
+       transform="translate(134.97436,703.64431)">
+      <g
+         id="g3548"
+         transform="scale(0.51282051)">
+        <rect
+           x="2"
+           y="2"
+           stroke-width="4"
+           rx="6"
+           width="436"
+           height="308"
+           stroke="#0d419d"
+           fill="#090c10"
+           id="rect3338" />
+        <g
+           font-weight="600"
+           font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+           id="g3436">
+          <text
+             x="15"
+             y="37"
+             font-size="18px"
+             fill="#f0f6fc"
+             id="text3340">Some User's GitHub Activity</text>
+          <g
+             transform="translate(0,60)"
+             font-size="14px"
+             fill="#c9d1d9"
+             id="g3434">
+            <g
+               transform="translate(15)"
+               id="g3344">
+              <text
+                 x="0"
+                 y="12.5"
+                 id="text3342">Language Distribution in Public Repositories:</text>
+            </g>
+            <g
+               transform="translate(235,21)"
+               id="g3348">
+              <circle
+                 cx="92"
+                 cy="92"
+                 r="92"
+                 fill="#ffffff"
+                 id="circle3346" />
+            </g>
+            <g
+               transform="translate(236,22)"
+               id="g3372">
+              <svg
+                 viewBox="0 0 182 182"
+                 width="182"
+                 height="182"
+                 version="1.1"
+                 id="svg3370">
+                <path
+                   fill-rule="evenodd"
+                   fill="#b07219"
+                   d="m 0,91 a 91,91 0 1 1 145.24472,73.06511 L 91,91 Z"
+                   id="path3350" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#e34c26"
+                   d="M 145.24472,164.06511 A 91,91 0 0 1 15.550071,141.87542 L 91,91 Z"
+                   id="path3352" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#3572a5"
+                   d="M 15.550071,141.87542 A 91,91 0 0 1 3.1282358,114.65487 L 91,91 Z"
+                   id="path3354" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#3d6117"
+                   d="M 3.1282358,114.65487 A 91,91 0 0 1 0.01632286,92.723512 L 91,91 Z"
+                   id="path3356" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#384d54"
+                   d="M 0.01632286,92.723512 A 91,91 0 0 1 0.00698042,92.127115 L 91,91 Z"
+                   id="path3358" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#427819"
+                   d="M 0.00698042,92.127115 A 91,91 0 0 1 0.00225626,91.640808 L 91,91 Z"
+                   id="path3360" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#89e051"
+                   d="M 0.00225626,91.640808 A 91,91 0 0 1 0.00101568,91.429944 L 91,91 Z"
+                   id="path3362" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#e10098"
+                   d="M 0.00101568,91.429944 A 91,91 0 0 1 2.7007489e-4,91.221706 L 91,91 Z"
+                   id="path3364" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#563d7c"
+                   d="M 2.7007489e-4,91.221706 A 91,91 0 0 1 6.0866948e-6,91.033283 L 91,91 Z"
+                   id="path3366" />
+                <path
+                   fill-rule="evenodd"
+                   fill="#959da5"
+                   d="M 6.0866948e-6,91.033283 A 91,91 0 0 1 0,91 h 91 z"
+                   id="path3368" />
+              </svg>
+            </g>
+            <g
+               transform="translate(15,21)"
+               id="g3378">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#b07219"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3374" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3376">Java 64.84%</text>
+            </g>
+            <g
+               transform="translate(15,42)"
+               id="g3384">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#e34c26"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3380" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3382">HTML 25.72%</text>
+            </g>
+            <g
+               transform="translate(15,63)"
+               id="g3390">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#3572a5"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3386" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3388">Python 5.26%</text>
+            </g>
+            <g
+               transform="translate(15,84)"
+               id="g3396">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#3d6117"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3392" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3394">TeX 3.88%</text>
+            </g>
+            <g
+               transform="translate(15,105)"
+               id="g3402">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#384d54"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3398" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3400">Dockerfile 0.10%</text>
+            </g>
+            <g
+               transform="translate(15,126)"
+               id="g3408">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#427819"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3404" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3406">Makefile 0.09%</text>
+            </g>
+            <g
+               transform="translate(15,147)"
+               id="g3414">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#89e051"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3410" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3412">Shell 0.04%</text>
+            </g>
+            <g
+               transform="translate(15,168)"
+               id="g3420">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#e10098"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3416" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3418">GraphQL 0.04%</text>
+            </g>
+            <g
+               transform="translate(15,189)"
+               id="g3426">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#563d7c"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3422" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3424">CSS 0.03%</text>
+            </g>
+            <g
+               transform="translate(15,210)"
+               id="g3432">
+              <rect
+                 x="0.5"
+                 y="0.5"
+                 rx="2"
+                 width="15"
+                 height="15"
+                 fill="#959da5"
+                 stroke-width="1"
+                 stroke="#ffffff"
+                 id="rect3428" />
+              <text
+                 x="25"
+                 y="12.5"
+                 id="text3430">Other 0.01%</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;mix-blend-mode:multiply;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="84.356438"
+       y="649.29297"
+       id="text3552"><tspan
+         sodipodi:role="line"
+         id="tspan3550"
+         x="84.356438"
+         y="649.29297"
+         style="font-size:24px;fill:#305030;fill-opacity:1">Customizable: Use whole </tspan><tspan
+         sodipodi:role="line"
+         x="84.356438"
+         y="673.29297"
+         style="font-size:24px;fill:#305030;fill-opacity:1"
+         id="tspan3554">card or pick the parts that </tspan><tspan
+         sodipodi:role="line"
+         x="84.356438"
+         y="697.29297"
+         style="font-size:24px;fill:#305030;fill-opacity:1"
+         id="tspan3556">you want</tspan></text>
   </g>
 </svg>
