@@ -1,0 +1,42 @@
+name: Convert
+
+on:
+  workflow_dispatch:
+    inputs:
+      ORIGINAL:
+        description: 'File to convert'
+        required: true
+      WIDTH:
+        description: 'target width'
+        required: true
+      HEIGHT:
+        description: 'target height'
+        required: true
+      OUTPUT:
+        description: 'output filename'
+        required: true
+
+jobs:
+  convert:
+
+    runs-on: ubuntu-latest
+      
+    steps:
+    - uses: actions/checkout@v3
+    
+    - uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+        
+    - name: Convert
+      run: |
+        npm install svg2png -g
+        svg2png ${{ github.event.inputs.ORIGINAL }} --output=${{ github.event.inputs.OUTPUT }} --width=${{ github.event.inputs.WIDTH }} --height=${{ github.event.inputs.HEIGHT }}
+    
+    - name: Commit and push 
+      uses: EndBug/add-and-commit@v7
+      with:
+        default_author: github_actions
+        message: 'commit it'
+        add: '*.png'
+ 
