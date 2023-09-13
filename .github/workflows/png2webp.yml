@@ -22,7 +22,7 @@ jobs:
     - name: Convert all
       run: |
         cd ${{ github.event.inputs.DIRECTORY }}
-        for f in *.png; do cwebp -o ${f%.*}.webp; done
+        for f in *.png; do cwebp -q 80 -o ${f%.*}.webp; done
 
     - name: Commit and push 
       uses: EndBug/add-and-commit@v9
